@@ -1,184 +1,433 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
-    <link type="text/css" rel="stylesheet" href="style.css"/>
-    <script type="text/javascript" src="js/d3.v3.min.js"></script>
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+<head>
+<meta charset=utf-8 />
+<title>JS Bin</title>
+</head>
+<style type="text/css">
+   #mainBubble {
+     background: #fff;
+     border: solid 1px #ddd;
+     box-shadow: 0 0 4px rgba(0,0,0,0);
+     font: 10px sans-serif;
+     height: 800px;
+     position: relative;
+     width: 80%;
+     overflow: scroll;
+   }
 
-      ga('create', 'UA-55956641-1', 'auto');
-      ga('send', 'pageview');
+   #mainBubble svg {
+     left: 0;
+     position: absolute;
+     top: 0;
+     overflow: scroll;
+   }
 
-    </script>
-  </head>
-  <body>
-    <div id="body">
-      <div id="header">
-        Tools and Libraries for Building Web-based Data Visualisations
-      </div>
-      <div id="footer">
-        <div class="hint"><p>This is an overview of tools available for building web-based data visualisations and is for a presentation by <a href="http://animateddata.co.uk">Peter Cook</a> at <a href="http://www.meetup.com/Data-Visualisation-Brighton/">Data Visualisation Brighton</a>.</p><p>It is not comprehensive. If you feel there's a glaring omission please <a href="http://animateddata.co.uk/contact/">contact me</a>. (For a more comprehensive list try Andy Kirk's <a href="http://www.visualisingdata.com/index.php/resources/">Visualising Data</a>.)</p><p>This is an adaptation of Mike Bostock's D3 tree layout <a href="http://mbostock.github.io/d3/talk/20111018/tree.html">example</a>. Thanks Mike :)</p><p>Click a circle to expand or collapse. Grey indicates not free.</p><p>I'm available <a href="http://animateddata.co.uk/contact">for hire</a>.</p><p><a href="http://animateddata.co.uk/training">Find out</a> about my <a href="http://animateddata.co.uk/training">data visualisation workshops</a></p>.</div>
-      </div>
-    </div>
-    <script type="text/javascript">
-
-var m = [20, 120, 20, 20],
-    w = 1280 - m[1] - m[3],
-    h = 800 - m[0] - m[2],
-    i = 0,
-    root;
-
-var tree = d3.layout.tree()
-    .size([h, w]);
-
-var diagonal = d3.svg.diagonal()
-    .projection(function(d) { return [d.y, d.x]; });
-
-var vis = d3.select("#body").append("svg:svg")
-    .attr("width", w + m[1] + m[3])
-    .attr("height", h + m[0] + m[2])
-  .append("svg:g")
-    .attr("transform", "translate(" + m[3] + "," + m[0] + ")");
-
-d3.json("data.json", function(json) {
-  root = json;
-  root.x0 = h / 2;
-  root.y0 = 0;
-
-  function toggleAll(d) {
-    if (d.children) {
-      d.children.forEach(toggleAll);
-      toggle(d);
+   #mainBubble circle.topBubble {
+     fill: #aaa;
+     stroke: #666;
+     stroke-width: 1.5px;
     }
-  }
+</style>
+<script type="text/javascript" src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<title>K-Pop Bubble</title>
 
-  // Initialize the display to show a few nodes.
-  // root.children.forEach(toggleAll);
-  // toggle(root.children[1]);
-  // toggle(root.children[1].children[2]);
-  // toggle(root.children[9]);
-  // toggle(root.children[9].children[0]);
+<div id="mainBubble" style="height: 589px;">
+  <svg class="mainBubbleSVG" width="840.446" height="589"></svg>
+</div>
+<script>
+  var w = window.innerWidth*0.68*0.95;
+  var h = Math.ceil(w*0.7);
+  var oR = 0;
+  var nTop = 0;
 
-  update(root);
-});
+  var svgContainer = d3.select("#mainBubble")
+          .style("height", h+"px");
 
-function update(source) {
-  var duration = d3.event && d3.event.altKey ? 5000 : 500;
+  var svg = d3.select("#mainBubble").append("svg")
+       .attr("class", "mainBubbleSVG")
+       .attr("width", w)
+       .attr("height",h)
+       .on("mouseleave", function() {return resetBubbles();});
 
-  // Compute the new tree layout.
-  var nodes = tree.nodes(root).reverse();
+  var mainNote = svg.append("text")
+   .attr("id", "bubbleItemNote")
+   .attr("x", 10)
+   .attr("y", w/2-15)
+   .attr("font-size", 12)
+   .attr("dominant-baseline", "middle")
+   .attr("alignment-baseline", "middle")
+   .style("fill", "#888888");
 
-  // Normalize for fixed-depth.
-  nodes.forEach(function(d) { d.y = d.depth * 180; });
 
-  // Update the nodes…
-  var node = vis.selectAll("g.node")
-      .data(nodes, function(d) { return d.id || (d.id = ++i); });
 
-  // Enter any new nodes at the parent's previous position.
-  var nodeEnter = node.enter().append("svg:g")
-      .attr("class", "node")
-      .attr("transform", function(d) { return "translate(" + source.y0 + "," + source.x0 + ")"; })
-      .on("click", function(d) { toggle(d); update(d); });
+   d3.json("kpop.json", function(error, root) {
+       console.log(error);
+       var bubbleObj = svg.selectAll(".topBubble")
+                        .data(root.children)
+                        .enter().append("g")
+                        .attr("id", function(d,i) {return "topBubbleAndText_" + i});
+       console.log(root);
+       nTop = root.children.length;
+       nperline = 4;
+       oR = w/(1+3*nperline);
+       h = Math.ceil(w/nperline*2);
+       svgContainer.style("height",h+"px");
+       var colVals = d3.scale.category10();
 
-  nodeEnter.append("svg:circle")
-      .attr("r", 1e-6)
-      .style("fill", function(d) { return d._children ? "lightsteelblue" : "#fff"; });
+       bubbleObj.append("circle")
+           .attr("class", "topBubble")
+           .attr("id", function(d,i) {return "topBubble" + i;})
+           .attr("r", function(d) { return oR; })
+           .attr("cx", function(d, i) {
+             if (i>=nperline) {
+               j = i%nperline;
+               return oR*(3*(1+j)-1);
+             }
+             else if (i<nperline) {
+               return oR*(3*(1+i)-1);
+             }
+             })
+           .attr("cy", function(d, i) {
+              if(i >= nperline ){
+                f = Math.ceil(i/nperline);
+                return (f*3*((h+oR)/3));
+              }
+              else if (i<nperline) {
+                return (h+oR)/3;
+              }
+             })
+           .style("fill", function(d,i) { return colVals(i); }) // #1f77b4
+           .style("opacity",0.3)
+           .on("mouseover", function(d,i) {return activateBubble(d,i);});
 
-  nodeEnter.append('a')
-      .attr('xlink:href', function(d) {
-        return d.url;
-      })
-      .append("svg:text")
-      .attr("x", function(d) { return d.children || d._children ? -10 : 10; })
-      .attr("dy", ".35em")
-      .attr("text-anchor", function(d) { return d.children || d._children ? "end" : "start"; })
-      .text(function(d) { return d.name; })
-      .style('fill', function(d) {
-        return d.free ? 'black' : '#999';
-      })
-      .style("fill-opacity", 1e-6);
 
-  nodeEnter.append("svg:title")
-    .text(function(d) {
-      return d.description;
-    });
+       bubbleObj.append("text")
+           .attr("class", "topBubbleText")
+           .attr("x", function(d, i){
+             if (i>=nperline) {
+               j = i%nperline;
+               return oR*(3*(1+j)-1);
+             }
+             else if (i<nperline) {
+               return oR*(3*(1+i)-1);
+             }
+            })
+           .attr("y", function(d, i) {
+              if(i >= nperline ){
+                f = Math.ceil(i/nperline);
+                return (f*3*((h+oR)/3));
+              }
+              else if (i<nperline) {
+                return (h+oR)/3;
+              }
+             })
+           .style("fill", function(d,i) { return colVals(i); }) // #1f77b4
+           .attr("font-size", 30)
+           .attr("text-anchor", "middle")
+           .attr("dominant-baseline", "middle")
+           .attr("alignment-baseline", "middle")
+           .text(function(d) {return d.name})
+           .on("click", function(d,i) { window.open(d.address); });
 
-  // Transition nodes to their new position.
-  var nodeUpdate = node.transition()
-      .duration(duration)
-      .attr("transform", function(d) { return "translate(" + d.y + "," + d.x + ")"; });
+      <!-- informations sur chaque groupe-->
+       for(var iB = 0; iB < nTop; iB++){
+           var childBubbles = svg.selectAll(".childBubble" + iB)
+                                  .data(root.children[iB].children)
+                                  .enter().append("g");
 
-  nodeUpdate.select("circle")
-      .attr("r", 6)
-      .style("fill", function(d) { return d._children ? "lightsteelblue" : "#fff"; });
+       //var nSubBubble = Math.floor(root.children[iB].children.length/2.0);
 
-  nodeUpdate.select("text")
-      .style("fill-opacity", 1);
+           childBubbles.append("circle")
+               .attr("class", "childBubble" + iB)
+               .attr("id", function(d,i) {return "childBubble_" + iB + "sub_" + i;})
+               .attr("r",  function(d) {return oR/3.0;})
+               .attr("cx", function(d,i) {
+                 if (iB>=nperline) {
+                   jB = iB%nperline;
+                   j = i%nperline;
+                   return (oR*(3*(jB+1)-1) + oR*1.5*Math.cos((j-1)*45/180*3.1415926));
+                 }
+                 else if (i<nperline) {
+                   return (oR*(3*(iB+1)-1) + oR*1.5*Math.cos((i-1)*45/180*3.1415926));
+                 }
+               })
+               .attr("cy", function(d,i) {
+                 if(i >= nperline ){
+                   f = Math.ceil(i/nperline);
+                   j = i%nperline;
+                   return ((f*3*((h+oR)/3)) + oR*1.5*Math.sin((j-1)*45/180*3.1415926));
+                 }
+                 else if (i<nperline) {
+                   return ((h+oR)/3 + oR*1.5*Math.sin((i-1)*45/180*3.1415926));
+                 }
+               })
+               .attr("cursor","pointer")
+               .style("opacity",0.5)
+               .style("fill", "#eee");
 
-  // Transition exiting nodes to the parent's new position.
-  var nodeExit = node.exit().transition()
-      .duration(duration)
-      .attr("transform", function(d) { return "translate(" + source.y + "," + source.x + ")"; })
-      .remove();
+           childBubbles.append("text")
+               .attr("class", "childBubbleText" + iB)
+               .attr("x", function(d,i) {
+                 if (iB>=nperline) {
+                   jB = iB%nperline;
+                   j = i%nperline;
+                   return (oR*(3*(jB+1)-1) + oR*1.5*Math.cos((j-1)*45/180*3.1415926));
+                 }
+                 else if (i<nperline) {
+                   return (oR*(3*(iB+1)-1) + oR*1.5*Math.cos((i-1)*45/180*3.1415926));
+                 }
+               })
+               .attr("y", function(d,i) {
+                 if(i >= nperline ){
+                   f = Math.ceil(i/nperline);
+                   j = i%nperline;
+                   return ((f*3*((h+oR)/3)) + oR*1.5*Math.sin((j-1)*45/180*3.1415926));
+                 }
+                 else if (i<nperline) {
+                   return ((h+oR)/3 + oR*1.5*Math.sin((i-1)*45/180*3.1415926));
+                 }
+                })
+               .style("opacity",0.5)
+               .attr("text-anchor", "middle")
+               .style("fill", function(d,i) { return colVals(iB); }) // #1f77b4
+               .attr("font-size", 6)
+               .attr("cursor","pointer")
+               .attr("dominant-baseline", "middle")
+               .attr("alignment-baseline", "middle")
+               .text(function(d) {return d.name});
+       }
 
-  nodeExit.select("circle")
-      .attr("r", 1e-6);
 
-  nodeExit.select("text")
-      .style("fill-opacity", 1e-6);
-
-  // Update the links…
-  var link = vis.selectAll("path.link")
-      .data(tree.links(nodes), function(d) { return d.target.id; });
-
-  // Enter any new links at the parent's previous position.
-  link.enter().insert("svg:path", "g")
-      .attr("class", "link")
-      .attr("d", function(d) {
-        var o = {x: source.x0, y: source.y0};
-        return diagonal({source: o, target: o});
-      })
-    .transition()
-      .duration(duration)
-      .attr("d", diagonal);
-
-  // Transition links to their new position.
-  link.transition()
-      .duration(duration)
-      .attr("d", diagonal);
-
-  // Transition exiting nodes to the parent's new position.
-  link.exit().transition()
-      .duration(duration)
-      .attr("d", function(d) {
-        var o = {x: source.x, y: source.y};
-        return diagonal({source: o, target: o});
-      })
-      .remove();
-
-  // Stash the old positions for transition.
-  nodes.forEach(function(d) {
-    d.x0 = d.x;
-    d.y0 = d.y;
   });
-}
 
-// Toggle children.
-function toggle(d) {
-  if (d.children) {
-    d._children = d.children;
-    d.children = null;
-  } else {
-    d.children = d._children;
-    d._children = null;
-  }
-}
+   resetBubbles = function () {
+     w = window.innerWidth*0.68*0.95;
+     oR = w/(1+3*nperline);
 
-    </script>
-  </body>
+     h = Math.ceil(w/nperline*2);
+     svgContainer.style("height",h+"px");
+
+     mainNote.attr("y",h-15);
+
+     svg.attr("width", w);
+     svg.attr("height",h);
+
+     d3.select("#bubbleItemNote").text("");
+
+     var t = svg.transition()
+                .duration(650);
+
+     t.selectAll(".topBubble")
+           .attr("r", function(d) { return oR; })
+           .attr("cx", function(d, i){
+             if (i>=nperline) {
+               i = 0;
+               return oR*(3*(1+i)-1);
+             }
+             else if (i<nperline) {
+               return oR*(3*(1+i)-1);
+             }
+            })
+           .attr("cy", function(d, i){
+              if(i >= nperline ){
+                f = Math.ceil(i/nperline);
+                return (f*3*((h+oR)/3));
+              }
+              else if (i<nperline) {
+                return (h+oR)/3;
+              }
+            });
+
+     t.selectAll(".topBubbleText")
+       .attr("font-size", 30)
+       .attr("x", function(d, i) {
+         if (i>=nperline) {
+           i = 0;
+           return oR*(3*(1+i)-1);
+         }
+         else if (i<nperline) {
+           return oR*(3*(1+i)-1);
+         }
+        })
+       .attr("y", function(d, i){
+          if(i >= nperline ){
+            f = Math.ceil(i/nperline);
+            return (f*3*((h+oR)/3));
+          }
+          else if (i<nperline) {
+            return (h+oR)/3;
+          }
+        });
+
+     for(var k = 0; k < nTop; k++)
+     {
+       t.selectAll(".childBubbleText" + k)
+               .attr("x", function(d,i) {
+                 if (iB>=nperline) {
+                   jB = iB%nperline;
+                   j = i%nperline;
+                   return (oR*(3*(jB+1)-1) + oR*1.5*Math.cos((j-1)*45/180*3.1415926));
+                 }
+                 else if (i<nperline) {
+                   return (oR*(3*(iB+1)-1) + oR*1.5*Math.cos((i-1)*45/180*3.1415926));
+                 }
+               })
+               .attr("y", function(d,i) {
+                 if(i >= nperline ){
+                   f = Math.ceil(i/nperline);
+                   j = i%nperline;
+                   return ((f*3*((h+oR)/3)) + oR*1.5*Math.sin((j-1)*45/180*3.1415926));
+                 }
+                 else if (i<nperline) {
+                   return ((h+oR)/3 + oR*1.5*Math.sin((i-1)*45/180*3.1415926));
+                 }
+                })
+               .attr("font-size", 6)
+               .style("opacity",0.5);
+
+       t.selectAll(".childBubble" + k)
+               .attr("r",  function(d) {return oR/3.0;})
+               .style("opacity",0.5)
+               .attr("cx", function(d,i) {
+                 if (iB>=nperline) {
+                   jB = iB%nperline;
+                   j = i%nperline;
+                   return (oR*(3*(jB+1)-1) + oR*1.5*Math.cos((j-1)*45/180*3.1415926));
+                 }
+                 else if (i<nperline) {
+                   return (oR*(3*(iB+1)-1) + oR*1.5*Math.cos((i-1)*45/180*3.1415926));
+                 }
+               })
+               .attr("cy", function(d,i) {
+                 if(i >= nperline ){
+                   f = Math.ceil(i/nperline);
+                   j = i%nperline;
+                   return ((f*3*((h+oR)/3)) + oR*1.5*Math.sin((j-1)*45/180*3.1415926));
+                 }
+                 else if (i<nperline) {
+                   return ((h+oR)/3 + oR*1.5*Math.sin((i-1)*45/180*3.1415926));
+                 }
+               });
+
+     }
+   }
+
+
+       function activateBubble(d,i) {
+           // increase this bubble and decrease others
+           var t = svg.transition()
+               .duration(d3.event.altKey ? 7500 : 350);
+
+           t.selectAll(".topBubble")
+               .attr("cx", function(d,ii){
+                   if(i == ii) {
+                       // Nothing to change
+                       return oR*(3*(1+ii)-1) - 0.6*oR*(ii-1);
+                   } else {
+                       // Push away a little bit
+                       if(ii < i){
+                           // left side
+                           return oR*0.6*(3*(1+ii)-1);
+                       } else {
+                           // right side
+                           return oR*(nTop*3+1) - oR*0.6*(3*(nTop-ii)-1);
+                       }
+                   }
+               })
+               .attr("r", function(d, ii){
+                   if(i == ii)
+                       return oR*1.8;
+                   else
+                       return oR*0.8;
+                });
+
+           t.selectAll(".topBubbleText")
+               .attr("x", function(d,ii){
+                   if(i == ii) {
+                       // Nothing to change
+                       return oR*(3*(1+ii)-1) - 0.6*oR*(ii-1);
+                   } else {
+                       // Push away a little bit
+                       if(ii < i){
+                           // left side
+                           return oR*0.6*(3*(1+ii)-1);
+                       } else {
+                           // right side
+                           return oR*(nTop*3+1) - oR*0.6*(3*(nTop-ii)-1);
+                       }
+                   }
+               })
+               .attr("font-size", function(d,ii){
+                   if(i == ii)
+                       return 30*1.5;
+                   else
+                       return 30*0.6;
+               });
+
+           var signSide = -1;
+           for(var k = 0; k < nTop; k++)
+           {
+               signSide = 1;
+               if(k < nperline/2) signSide = 1;
+               t.selectAll(".childBubbleText" + k)
+                   .attr("x", function(d,i) {
+                     if (iB>=nperline) {
+                       kB = k%nperline;
+                       j = i%nperline;
+                       return (oR*(3*(kB+1)-1) - 0.6*oR*(k-1) + signSide*oR*2.5*Math.cos((j-1)*45/180*3.1415926));
+                     }
+                     else if (i<nperline) {
+                       return (oR*(3*(k+1)-1) - 0.6*oR*(k-1) + signSide*oR*2.5*Math.cos((i-1)*45/180*3.1415926));
+                     }
+                   })
+                   .attr("y", function(d,i) {
+                     if(i >= nperline ){
+                       f = Math.ceil(i/nperline);
+                       j = i%nperline;
+                       return ((f*3*((h+oR)/3)) + signSide*oR*2.5*Math.sin((j-1)*45/180*3.1415926));
+                     }
+                     else if (i<nperline) {
+                       return ((h+oR)/3 + signSide*oR*2.5*Math.sin((i-1)*45/180*3.1415926));
+                     }
+                   })
+                   .attr("font-size", function(){
+                           return (k==i)?12:6;
+                    })
+                   .style("opacity",function(){
+                           return (k==i)?1:0;
+                    });
+
+               t.selectAll(".childBubble" + k)
+                   .attr("cx", function(d,i) {
+                     if (iB>=nperline) {
+                       kB = k%nperline;
+                       j = i%nperline;
+                       return (oR*(3*(kB+1)-1) - 0.6*oR*(k-1) + signSide*oR*2.5*Math.cos((j-1)*45/180*3.1415926));
+                     }
+                     else if (i<nperline) {
+                       return (oR*(3*(k+1)-1) - 0.6*oR*(k-1) + signSide*oR*2.5*Math.cos((i-1)*45/180*3.1415926));
+                     }
+                   })
+                   .attr("cy", function(d,i) {
+                     if(i >= nperline ){
+                       f = Math.ceil(i/nperline);
+                       j = i%nperline;
+                       return ((f*3*((h+oR)/3)) + signSide*oR*2.5*Math.sin((j-1)*45/180*3.1415926));
+                     }
+                     else if (i<nperline) {
+                       return ((h+oR)/3 + signSide*oR*2.5*Math.sin((i-1)*45/180*3.1415926));
+                     }
+                   })
+                   .attr("r", function(){
+                           return (k==i)?(oR*0.55):(oR/3.0);
+                   })
+                   .style("opacity", function(){
+                           return (k==i)?1:0;
+                  });
+           }
+       }
+
+   window.onresize = resetBubbles;
+</script>
 </html>

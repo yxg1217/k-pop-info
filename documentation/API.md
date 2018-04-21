@@ -1,4 +1,4 @@
-<h1 align="center" id="0">API 文档</h1> 
+<h1 align="center" id="0">API 文档</h1>
 
 
 
@@ -23,19 +23,24 @@ We read all the infomations of the music here
 
 **Access Point**:
 
-| Method | Path | 
+| Method | Path |
 |:----------------:|:----------------:|
 | POST | /music |
 
 **Content**:
 
-| Attribute | Description | Example |
-|:----------------:|:----------------:|:-----------:|
-| name | Name of the song | Save Me|
-| singer | Singer's name | BTS |
-| yearPublic | publish time | 2016-01-01T07:42:10.800Z |
-| addDate | add time | 2018-04-01T07:42:10.800Z |
-
+{"name":"bubble", "children":[
+{"image":"pathTo/example.jpg","description":"BTS",
+"children":[
+    {"name": "Bangtan Boys"},
+    {"origin": "Seoul, South Korea"},
+    {"genres_str": "K-pop hip hop[1] R&B EDM"},
+    {"years_active": "2013–present"},
+    {"labels": "Big Hit Entertainment Pony Canyon Def Jam Japan"},
+    {"website":"bts.ibighit.com"},
+    {"members_str":"Jin,Suga,J-Hope,RM,Jimin,V,Jungkook}
+]}
+]}
 **Example:**
 
 ~~~bash
@@ -44,4 +49,3 @@ curl -H "Content-Type: application/json" \
 -d '{"name":"Save Me", "singer":"BTS", "yearPublic":"2016-01-01T07:42:10.800Z", "addDate":"2016-01-01T07:42:10.800Z"}'
 
 ~~~
-
