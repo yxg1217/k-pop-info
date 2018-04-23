@@ -32,11 +32,9 @@
       <h2>Cliquez pour voir leur informations!</h2>
       <h4 id="origin">Leur origine..</h4>
       <h4 id="genres_str">Leur genre de musique..</h4>
-      <h4 id="years_active">Leurs années d'activité..</h4>
       <h4 id="labels">Leur compagnie..</h4>
       <h4 id="members_str">Les membres du groupe..</h4>
       <h3>Liens vers leur site web!</h3>
-
     </header>
     <!-- container for force layout visualisation  -->
     <section id="vis"></section>
@@ -145,7 +143,6 @@ function update() {
               d3.select("h2").html(d.alias);
               d3.select("#origin").html("Origine : "+d.origin);
               d3.select("#genres_str").html("Genre : "+d.genres_str);
-              d3.select("#years_active").html("Année actives : "+d.years_active);
               d3.select("#labels").html("Labels : "+d.labels);
               d3.select("#members_str").html("Membres : "+d.members_str);
               d3.select("h3").html ("Je veux visiter la page de " + "<a href='" + d.link + "' >"  + d.name + " ⇢"+ "</a>" );
