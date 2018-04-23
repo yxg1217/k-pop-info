@@ -1,0 +1,2892 @@
+{
+    "image": "https://cdn.pixabay.com/photo/2017/06/26/20/33/icon-2445092_960_720.png",
+    "name": "Kpop",
+    "children": [
+        {
+            "name": "Group0",
+            "children": [
+                {
+                    "name": "1NB",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://trivus.co.kr/en/",
+                    "_id": {
+                        "$oid": "5add54755c004c367d78d482"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop",
+                    "labels": "Trivus Entertainment",
+                    "members_str": "Leeda,Shinhye,Jayeon,Hajung,Sojung"
+                },
+                {
+                    "name": "1TYM",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add54775c004c367d78d483"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "South Korea",
+                    "genres_str": "Korean hip hop",
+                    "labels": "YG Entertainment",
+                    "members_str": "Oh Jinhwan,Teddy Park,Song Baekyoung,Im Taebin"
+                },
+                {
+                    "name": "2AM",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://2am.jype.com",
+                    "_id": {
+                        "$oid": "5add54775c004c367d78d484"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2AM_in_Manila_from_Apr._28-30_2011_02.png/220px-2AM_in_Manila_from_Apr._28-30_2011_02.png",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,R&B,soul",
+                    "labels": "Big Hit Entertainment,JYP Entertainment,Ariola Japan,United Asia Management",
+                    "members_str": ""
+                },
+                {
+                    "name": "2Eyes",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add54775c004c367d78d485"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "South Korea",
+                    "genres_str": "K-pop,Dance pop",
+                    "labels": "SidusHQ,/,LOEN Entertainment",
+                    "members_str": "Hyangsuk,Hyerin,Dasom,Daeun"
+                },
+                {
+                    "name": "2NB",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add54775c004c367d78d486"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,R&B",
+                    "labels": "Donuts Culture,(2016\u2013),Friday Entertainment (2006\u20132012)",
+                    "members_str": "Son Yoo-na,Kim Hyo-jin"
+                },
+                {
+                    "name": "2NE1",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://yg-2ne1.com",
+                    "_id": {
+                        "$oid": "5add54785c004c367d78d487"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2NE1_from_acrofan_2.jpg/300px-2NE1_from_acrofan_2.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,hip hop,R&B,dance-pop",
+                    "labels": "YG Entertainment,Avex Group,Warner Music,will.i.am,Capitol,School Boy",
+                    "members_str": ""
+                },
+                {
+                    "name": "2PM",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://2pm.jype.com",
+                    "_id": {
+                        "$oid": "5add54785c004c367d78d488"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/2/24/2PM_in_Japan_on_6_August_2011.jpg/300px-2PM_in_Japan_on_6_August_2011.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,hip hop,electronic,R&B",
+                    "labels": "JYP Entertainment,Sony Music,Ariola Japan,United Asia Management",
+                    "members_str": "Jun. K,Nichkhun,Taecyeon,Wooyoung,Junho,Chansung"
+                },
+                {
+                    "name": "2Yoon",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://4min.co.kr/",
+                    "_id": {
+                        "$oid": "5add54785c004c367d78d489"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop",
+                    "labels": "Cube Entertainment",
+                    "members_str": ""
+                },
+                {
+                    "name": "4L",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://www.jcment.co.kr/index.php?mid=page_JeYW55",
+                    "_id": {
+                        "$oid": "5add54795c004c367d78d48a"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,dance",
+                    "labels": "Jade Contents Media",
+                    "members_str": ""
+                },
+                {
+                    "name": "4Men",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add54795c004c367d78d48b"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "South Korea",
+                    "genres_str": "K-pop,R&B,soul",
+                    "labels": "MAJOR",
+                    "members_str": "Shin Yong-jae,Kim Won-joo"
+                }
+            ]
+        },
+        {
+            "name": "Group1",
+            "children": [
+                {
+                    "name": "4Minute",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add54795c004c367d78d48c"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/9/94/4minute_at_MTV-DAUM_Music_Fest.jpg/267px-4minute_at_MTV-DAUM_Music_Fest.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "Dance-pop,hip hop,K-pop,R&B",
+                    "labels": "Cube Entertainment,Far Eastern Tribe,Universal Music Group",
+                    "members_str": ""
+                },
+                {
+                    "name": "4TEN",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add54795c004c367d78d48d"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/0/07/4TEN_at_Hello%2C_Mr_K%21_Concert%2C_in_April_2016_01.jpg/220px-4TEN_at_Hello%2C_Mr_K%21_Concert%2C_in_April_2016_01.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,Dance-pop,Hip hop",
+                    "labels": "Jungle Entertainment",
+                    "members_str": "Hyeji,Hyejin,Heeo"
+                },
+                {
+                    "name": "5urprise",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://fantagio.kr/artists/5urprise/",
+                    "_id": {
+                        "$oid": "5add547a5c004c367d78d48e"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/150221_5URPRISE_Beyond_Fan_Meet_in_Thailand.jpg/300px-150221_5URPRISE_Beyond_Fan_Meet_in_Thailand.jpg",
+                    "alias": "",
+                    "origin": "South Korea",
+                    "genres_str": "K-pop",
+                    "labels": "Fantagio,King",
+                    "members_str": "Yoo Il,Seo Kang-joon,Gong Myung,Kang Tae-oh,Lee Tae-hwan"
+                },
+                {
+                    "name": "8Eight",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add547a5c004c367d78d48f"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/8Eight_%40_Cyworld_Dream_Music_Festival_%EC%8B%B8%EC%9D%B4%EC%9B%94%EB%93%9C_%EB%93%9C%EB%A6%BC_%EB%AE%A4%EC%A7%81_%ED%8E%98%EC%8A%A4%ED%8B%B0%EB%B2%8C_2.jpg/300px-8Eight_%40_Cyworld_Dream_Music_Festival_%EC%8B%B8%EC%9D%B4%EC%9B%94%EB%93%9C_%EB%93%9C%EB%A6%BC_%EB%AE%A4%EC%A7%81_%ED%8E%98%EC%8A%A4%ED%8B%B0%EB%B2%8C_2.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop",
+                    "labels": "Big Hit Entertainment,Source Music",
+                    "members_str": ""
+                },
+                {
+                    "name": "14U",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://www.baekgom-ent.com/",
+                    "_id": {
+                        "$oid": "5add547a5c004c367d78d490"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,Dance-pop",
+                    "labels": "BG Entertainment",
+                    "members_str": "E.Sol,Luha,Gohyeon,B.S,Loudi,Eunjae,Woojoo,Doyul,Dohyuk,Hyunwoong,Sejin,Youngwoong,Rio,Gyeongtae"
+                },
+                {
+                    "name": "15&",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://15and.jype.com",
+                    "_id": {
+                        "$oid": "5add547a5c004c367d78d491"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,R&B,Soul",
+                    "labels": "JYP Entertainment",
+                    "members_str": "Baek Ye-rin,Park Ji-min"
+                },
+                {
+                    "name": "24Hours",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add547b5c004c367d78d492"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,K-rock,Alternative rock",
+                    "labels": "",
+                    "members_str": "Beautiful Jin,Hyemi,Hyukjae,Eunhong"
+                },
+                {
+                    "name": "24K",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://cafe.daum.net/official24K",
+                    "_id": {
+                        "$oid": "5add547b5c004c367d78d493"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/0/03/%2824K%28%ED%88%AC%ED%8F%AC%EC%BC%80%EC%9D%B4%29%29_4%EC%A7%91_%EB%82%A0%EB%9D%BC%EB%A6%AC%28Superfly%29_%EC%95%88%EB%AC%B4_%EC%98%81%EC%83%81_%28%EC%82%AC%EB%B3%B5ver.%29.jpg/220px-%2824K%28%ED%88%AC%ED%8F%AC%EC%BC%80%EC%9D%B4%29%29_4%EC%A7%91_%EB%82%A0%EB%9D%BC%EB%A6%AC%28Superfly%29_%EC%95%88%EB%AC%B4_%EC%98%81%EC%83%81_%28%EC%82%AC%EB%B3%B5ver.%29.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,dance,hip hop",
+                    "labels": "Choeun Entertainment",
+                    "members_str": "Cory,Kisu,Sungoh (Hiatus),Jeonguk,Jinhong,Changsun,Hongseob"
+                },
+                {
+                    "name": "100% (\ubc31\ud37c\uc13c\ud2b8)",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://www.100per.kr/",
+                    "_id": {
+                        "$oid": "5add547b5c004c367d78d494"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/100_per_cent_from_acrofan.jpg/300px-100_per_cent_from_acrofan.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop",
+                    "labels": "TOP Media",
+                    "members_str": "Rockhyun,Jonghwan,Chanyong,Hyukjin"
+                },
+                {
+                    "name": "2000 Won",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "https://www.facebook.com/https://www.facebook.com/2000won/wiki/Facebook",
+                    "_id": {
+                        "$oid": "5add547b5c004c367d78d495"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "South Korea",
+                    "genres_str": "K-pop",
+                    "labels": "Reve Entertainment,(South Korea)",
+                    "members_str": "Kim Hyo-bin,Kim Il-do"
+                }
+            ]
+        },
+        {
+            "name": "Group2",
+            "children": [
+                {
+                    "name": "A-Jax\n\uc5d0\uc774\uc81d\uc2a4",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://ajax.dspmedia.co.kr",
+                    "_id": {
+                        "$oid": "5add547c5c004c367d78d496"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/A-JAX.jpg/300px-A-JAX.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop",
+                    "labels": "DSP Media,Universal Sigma",
+                    "members_str": "Hyeongkon,Yunyoung,Seungjin,Seungyeop,Junghee"
+                },
+                {
+                    "name": "A-Prince",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add547c5c004c367d78d497"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,Dance-pop",
+                    "labels": "New Planet Entertainment",
+                    "members_str": ""
+                },
+                {
+                    "name": "A.cian (\uc5d0\uc774\uc158)",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://www.wingsent.com",
+                    "_id": {
+                        "$oid": "5add547c5c004c367d78d498"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/1/18/%28Acian%28%EC%97%90%EC%9D%B4%EC%85%98%29%29_Opening_of_Real_Acian_TV.jpg/220px-%28Acian%28%EC%97%90%EC%9D%B4%EC%85%98%29%29_Opening_of_Real_Acian_TV.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,Dance-pop,Hip hop",
+                    "labels": "Wings Entertainment,Elijah Entertainment",
+                    "members_str": "Jungsang,Hyeokjin,Sanghyun,Jin.O"
+                },
+                {
+                    "name": "Ace",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://stayge.net/ace/",
+                    "_id": {
+                        "$oid": "5add547d5c004c367d78d499"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/9/99/171027_%EC%97%90%EC%9D%B4%EC%8A%A4.jpg/300px-171027_%EC%97%90%EC%9D%B4%EC%8A%A4.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,Hardstyle,Dubstep",
+                    "labels": "Beat Interactive",
+                    "members_str": "Jun,Donghun,Wow,Jason,Chan"
+                },
+                {
+                    "name": "After School",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://www.pledis.co.kr/html/artist/afterschool",
+                    "_id": {
+                        "$oid": "5add547d5c004c367d78d49a"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/7/71/After_School_in_AfterSchool%27s_Beauty_Bible.jpg/300px-After_School_in_AfterSchool%27s_Beauty_Bible.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop",
+                    "labels": "Pledis Entertainment,Avex Trax,Avex Taiwan",
+                    "members_str": "Raina,Nana,Lizzy,E-Young,Kaeun"
+                },
+                {
+                    "name": "Akdong Musician",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://www.yg-akmu.com/",
+                    "_id": {
+                        "$oid": "5add547d5c004c367d78d49b"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Akmu_at_Ipselenti_Korea_University_Campus_Festival_in_2016.jpg/220px-Akmu_at_Ipselenti_Korea_University_Campus_Festival_in_2016.jpg",
+                    "alias": "",
+                    "origin": "Uijeongbu,South Korea",
+                    "genres_str": "K-pop,soul,folk-pop",
+                    "labels": "YG Entertainment",
+                    "members_str": "Lee Chan-hyuk,Lee Su-hyun"
+                },
+                {
+                    "name": "Almeng",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add547e5c004c367d78d49c"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "South Korea",
+                    "genres_str": "K-pop,hip hop,R&B",
+                    "labels": "",
+                    "members_str": "Choi Rin,Lee Hae-yong"
+                },
+                {
+                    "name": "AOA",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://fncent.com/aoa",
+                    "_id": {
+                        "$oid": "5add547e5c004c367d78d49d"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/160924_AOA_%EC%9D%B8%EC%B2%9C%ED%95%9C%EB%A5%98%EA%B4%80%EA%B4%91%EC%BD%98%EC%84%9C%ED%8A%B8.jpg/300px-160924_AOA_%EC%9D%B8%EC%B2%9C%ED%95%9C%EB%A5%98%EA%B4%80%EA%B4%91%EC%BD%98%EC%84%9C%ED%8A%B8.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,R&B,dance-pop",
+                    "labels": "FNC Entertainment,Delicious Deli,Virgin Music,Universal Music Japan",
+                    "members_str": "Jimin,Yuna,Hyejeong,Mina,Seolhyun,Chanmi"
+                },
+                {
+                    "name": "AOA Cream",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://fncent.com/AOACREAM",
+                    "_id": {
+                        "$oid": "5add547e5c004c367d78d49e"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/AOA_Cream_at_a_mini_fan_meeting_in_March_2016_01.jpg/300px-AOA_Cream_at_a_mini_fan_meeting_in_March_2016_01.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,dance-pop,electropop",
+                    "labels": "FNC Entertainment,CJ E&M Music,Delicious Deli,Universal Music Japan",
+                    "members_str": "Yuna,Hyejeong,Chanmi"
+                },
+                {
+                    "name": "Apink",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://planaent.co.kr/apink",
+                    "_id": {
+                        "$oid": "5add547e5c004c367d78d49f"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/180324_%EC%A0%84%EB%9D%BC%EA%B3%A050%EC%A3%BC%EB%85%84_%EA%B8%B0%EB%85%90%ED%96%89%EC%82%AC_%EC%97%90%EC%9D%B4%ED%95%91%ED%81%AC_part.1_%281%29.jpg/300px-180324_%EC%A0%84%EB%9D%BC%EA%B3%A050%EC%A3%BC%EB%85%84_%EA%B8%B0%EB%85%90%ED%96%89%EC%82%AC_%EC%97%90%EC%9D%B4%ED%95%91%ED%81%AC_part.1_%281%29.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,Bubblegum pop,Synthpop",
+                    "labels": "Plan A Entertainment,UMG,(,EMI,)",
+                    "members_str": "Park Cho-rong,Yoon Bo-mi,Jung Eun-ji,Son Na-eun,Kim Nam-joo,Oh Ha-young"
+                }
+            ]
+        },
+        {
+            "name": "Group3",
+            "children": [
+                {
+                    "name": "Apple.B (\uc560\ud50c\ube44)",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://gh-ent.co.kr",
+                    "_id": {
+                        "$oid": "5add547f5c004c367d78d4a0"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,Dance-pop,Hip hop",
+                    "labels": "GH Entertainment",
+                    "members_str": "Yurim,Sandy,Yuji,Haeun,Hyunmin"
+                },
+                {
+                    "name": "April\n\uc5d0\uc774\ud504\ub9b4",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://dspmedia.co.kr/april/",
+                    "_id": {
+                        "$oid": "5add547f5c004c367d78d4a1"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,Bubblegum pop,R&B",
+                    "labels": "DSP Media",
+                    "members_str": "Chaekyung,Chaewon,Naeun,Yena,Rachel,Jinsol"
+                },
+                {
+                    "name": "As One (\uc560\uc988\uc6d0)",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://www.brandnewmusic.co.kr/artist/as-one/about",
+                    "_id": {
+                        "$oid": "5add547f5c004c367d78d4a2"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/As_One.jpg/220px-As_One.jpg",
+                    "alias": "",
+                    "origin": "South Korea",
+                    "genres_str": "K-pop,R&B",
+                    "labels": "Brand New Music",
+                    "members_str": "Lee Min,Crystal"
+                },
+                {
+                    "name": "Astro\n\uc544\uc2a4\ud2b8\ub85c",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://www.fantagio.kr/artists/astro/",
+                    "_id": {
+                        "$oid": "5add547f5c004c367d78d4a3"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Astro_at_%22Dream_Part._01%22_Showcase.png/220px-Astro_at_%22Dream_Part._01%22_Showcase.png",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,Dance-pop,electronic,Synthpop",
+                    "labels": "Fantagio",
+                    "members_str": "MJ,JinJin,Cha Eunwoo,Moon Bin,Rocky,Yoon Sanha"
+                },
+                {
+                    "name": "B.A.P",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "https://web.archive.org/web/20151117031725/http://www.tsenter.co.kr/03_ts_artist/01_Album.asp?aid=11",
+                    "_id": {
+                        "$oid": "5add54805c004c367d78d4a4"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/7/72/KOCIS_Korea_KPOP_World_Festival_10_%2811039961034%29.jpg/293px-KOCIS_Korea_KPOP_World_Festival_10_%2811039961034%29.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,hip hop,R&B,rock",
+                    "labels": "TS Entertainment,King Records",
+                    "members_str": "Yongguk,Himchan,Daehyun,Youngjae,Jongup,Zelo"
+                },
+                {
+                    "name": "B.I.G (\ube44\uc544\uc774\uc9c0)",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://gh-ent.co.kr",
+                    "_id": {
+                        "$oid": "5add54805c004c367d78d4a5"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/3/39/B.I.G_at_apm%2C_Kwun_Tong%2C_HK.jpg/220px-B.I.G_at_apm%2C_Kwun_Tong%2C_HK.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,Dance-pop,Hip hop",
+                    "labels": "GH Entertainment,HY Entertainment",
+                    "members_str": "J-Hoon,Benji,Gunmin,Minpyo,Heedo"
+                },
+                {
+                    "name": "B1A4",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://b1a4.com",
+                    "_id": {
+                        "$oid": "5add54805c004c367d78d4a6"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/B1A4_2016.png/300px-B1A4_2016.png",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop",
+                    "labels": "WM Entertainment,Pony Canyon,LOEN,Universal J,(Japan),Warner,(Taiwan),Youkai Entertainment (Brazil)",
+                    "members_str": "CNU,Jinyoung,Sandeul,Baro,Gongchan"
+                },
+                {
+                    "name": "Baby V.O.X",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add54805c004c367d78d4a7"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,R&B",
+                    "labels": "DR Music,EMI",
+                    "members_str": ""
+                },
+                {
+                    "name": "Baby Vox Re.V\n\ubca0\uc774\ube44 \ubcf5\uc2a4 \ub9ac\ube0c",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add54815c004c367d78d4a8"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Baby_Vox_Re.V.JPG/220px-Baby_Vox_Re.V.JPG",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,R&B",
+                    "labels": "DR Music",
+                    "members_str": ""
+                },
+                {
+                    "name": "Baechigi",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://www.ymcent.com/YMC/artist_baechigi.php",
+                    "_id": {
+                        "$oid": "5add54815c004c367d78d4a9"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-Pop,Hip hop",
+                    "labels": "YMC Entertainment",
+                    "members_str": "Muwoong,Tak"
+                }
+            ]
+        },
+        {
+            "name": "Group4",
+            "children": [
+                {
+                    "name": "Bastarz",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://www.sevenseasons.co.kr/",
+                    "_id": {
+                        "$oid": "5add54815c004c367d78d4aa"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,Hip hop,R&B",
+                    "labels": "KQ Entertainment,CJ E&M",
+                    "members_str": "B-Bomb,U-Kwon,P.O"
+                },
+                {
+                    "name": "Battle",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add54825c004c367d78d4ab"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "South Korea",
+                    "genres_str": "K-Pop,Hip hop",
+                    "labels": "Good! Entertainment",
+                    "members_str": "Ryu,Jin Tae-hwa,Lio,Chris,Hwichan"
+                },
+                {
+                    "name": "Be.A",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add54825c004c367d78d4ac"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/3/32/K-Much_Busan_Coffee.jpg/300px-K-Much_Busan_Coffee.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop",
+                    "labels": "Chrome Entertainment,Sony Music",
+                    "members_str": "Hong-gyu,Yeong-kyun,Milly,Ato,BomB"
+                },
+                {
+                    "name": "BEATWIN (\ube44\ud2b8\uc708)",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://www.beatwin.co.kr",
+                    "_id": {
+                        "$oid": "5add54825c004c367d78d4ad"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,Dance-pop,Hip hop",
+                    "labels": "Elen Entertainment",
+                    "members_str": "Sunhyeok,Youngjo"
+                },
+                {
+                    "name": "Berry Good",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://cafe.daum.net/BerryGood",
+                    "_id": {
+                        "$oid": "5add54835c004c367d78d4ae"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Berry_Good_at_LBMA_Star_Awards%2C_8_June_2017_02.jpg/300px-Berry_Good_at_LBMA_Star_Awards%2C_8_June_2017_02.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,Dance,EDM",
+                    "labels": "Asia Bridge Entertainment (2014-2016),JTG Entertainment (2016-)",
+                    "members_str": "Taeha,Johyun,Seoyul,Daye,Sehyung,Gowoon"
+                },
+                {
+                    "name": "Bestie",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://ynbent.com",
+                    "_id": {
+                        "$oid": "5add54835c004c367d78d4af"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/b/be/BESTie_at_Pyeongchon_Cultural_street_Festival%2C_18_September_2015.jpg/300px-BESTie_at_Pyeongchon_Cultural_street_Festival%2C_18_September_2015.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop",
+                    "labels": "YNB Entertainment",
+                    "members_str": "Hyeyeon,Haeryung"
+                },
+                {
+                    "name": "Big Bang",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://www.ygbigbang.com",
+                    "_id": {
+                        "$oid": "5add54835c004c367d78d4b0"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/BIGBANG_Extraordinary_20%27s.JPG/289px-BIGBANG_Extraordinary_20%27s.JPG",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,J-pop,hip hop,dance,electronic,R&B",
+                    "labels": "YG Entertainment,Avex,Warner Music Taiwan",
+                    "members_str": "T.O.P,Taeyang,G-Dragon,Daesung,Seungri"
+                },
+                {
+                    "name": "Big Brain",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://cafe.daum.net/BigBrain",
+                    "_id": {
+                        "$oid": "5add54845c004c367d78d4b1"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "R&B,K-pop,soul,urban",
+                    "labels": "Official website",
+                    "members_str": "Mo Sang Hoon,Kim Jin Yong,Hwang Byeong Eun,Yoon Hong Hyun"
+                },
+                {
+                    "name": "Big Mama",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://www.taillruns.com/",
+                    "_id": {
+                        "$oid": "5add54845c004c367d78d4b2"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Big_Mama_%28South_Korean_female_band%29_from_acrofan.jpg/298px-Big_Mama_%28South_Korean_female_band%29_from_acrofan.jpg",
+                    "alias": "",
+                    "origin": "South Korea",
+                    "genres_str": "Gospel,pop,R&B,soul",
+                    "labels": "Taillrunsmedia (\ud0dc\uc77c\ub7f0\uc2a4\ubbf8\ub514\uc5b4)",
+                    "members_str": ""
+                },
+                {
+                    "name": "Big Star",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://\ube45\uc2a4\ud0c0.com/",
+                    "_id": {
+                        "$oid": "5add54845c004c367d78d4b3"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/2015_%EB%B9%85%EC%8A%A4%ED%83%80_-_%EB%8B%AC%EB%B9%9B%EC%86%8C%EB%82%98%ED%83%80_%EB%AE%A4%EC%A7%81%EB%B9%84%EB%94%94%EC%98%A4_%EB%A9%94%EC%9D%B4%ED%82%B9_01.png/300px-2015_%EB%B9%85%EC%8A%A4%ED%83%80_-_%EB%8B%AC%EB%B9%9B%EC%86%8C%EB%82%98%ED%83%80_%EB%AE%A4%EC%A7%81%EB%B9%84%EB%94%94%EC%98%A4_%EB%A9%94%EC%9D%B4%ED%82%B9_01.png",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,dance-pop",
+                    "labels": "Brave Entertainment",
+                    "members_str": "Baram,Raehwan,Feeldog,Sunghak,Jude"
+                }
+            ]
+        },
+        {
+            "name": "Group5",
+            "children": [
+                {
+                    "name": "Bigflo",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://wanenter.com/",
+                    "_id": {
+                        "$oid": "5add54855c004c367d78d4b4"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop",
+                    "labels": "HO Company",
+                    "members_str": "Jungkyun,Ron,Yuseong,HighTop,Lex,Euijin,Sungmin"
+                },
+                {
+                    "name": "Black Beat\n\ube14\ub799 \ube44\ud2b8",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://www.blackbeat.co.kr",
+                    "_id": {
+                        "$oid": "5add54855c004c367d78d4b5"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop",
+                    "labels": "SM Entertainment",
+                    "members_str": ""
+                },
+                {
+                    "name": "Black Pearl",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add54855c004c367d78d4b6"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,hip hop,R&B,dance-pop",
+                    "labels": "Core Contents Media",
+                    "members_str": ""
+                },
+                {
+                    "name": "Black Pink",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://blackpinkofficial.com",
+                    "_id": {
+                        "$oid": "5add54865c004c367d78d4b7"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/0/00/%EB%B8%94%EB%9E%99%ED%95%91%ED%81%AC%28BlackPink%29_-_%EB%A7%88%EC%A7%80%EB%A7%89%EC%B2%98%EB%9F%BC_171001_%EC%BD%94%EB%A6%AC%EC%95%84%EB%AE%A4%EC%A7%81%ED%8E%98%EC%8A%A4%ED%8B%B0%EB%B2%8C.jpg/300px-%EB%B8%94%EB%9E%99%ED%95%91%ED%81%AC%28BlackPink%29_-_%EB%A7%88%EC%A7%80%EB%A7%89%EC%B2%98%EB%9F%BC_171001_%EC%BD%94%EB%A6%AC%EC%95%84%EB%AE%A4%EC%A7%81%ED%8E%98%EC%8A%A4%ED%8B%B0%EB%B2%8C.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop",
+                    "labels": "YG Entertainment,Avex",
+                    "members_str": "Jisoo,Jennie,Ros\u00e9,Lisa"
+                },
+                {
+                    "name": "Blady",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://cafe.naver.com/blady",
+                    "_id": {
+                        "$oid": "5add54865c004c367d78d4b8"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/5/51/%EB%B8%94%EB%A0%88%EC%9D%B4%EB%94%94%28Blady%29_%EC%9D%B4%EC%83%81%EB%AF%B8%EC%9D%98%EB%AE%A4%EC%A7%81%EB%8B%B7%EC%BB%B4_%EA%B3%B5%EA%B0%9C%EB%B0%A9%EC%86%A1_%ED%99%94%EC%84%B1%EC%8B%9C_%EC%9A%B0%EC%A0%95%EC%9D%8D.jpg/300px-%EB%B8%94%EB%A0%88%EC%9D%B4%EB%94%94%28Blady%29_%EC%9D%B4%EC%83%81%EB%AF%B8%EC%9D%98%EB%AE%A4%EC%A7%81%EB%8B%B7%EC%BB%B4_%EA%B3%B5%EA%B0%9C%EB%B0%A9%EC%86%A1_%ED%99%94%EC%84%B1%EC%8B%9C_%EC%9A%B0%EC%A0%95%EC%9D%8D.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop",
+                    "labels": "Star Planet,SY6 Entertainment",
+                    "members_str": "Tina,Giru,Dayeong,Yeeun,Gabin"
+                },
+                {
+                    "name": "Block B",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://www.sevenseasons.co.kr/",
+                    "_id": {
+                        "$oid": "5add54865c004c367d78d4b9"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Block_B_at_KCON_2015_in_Los_Angeles.jpg/300px-Block_B_at_KCON_2015_in_Los_Angeles.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,hip hop,R&B,dance",
+                    "labels": "KQ Entertainment,(2013\u2013present),Stardom,(2011\u20132013)",
+                    "members_str": "Taeil,B-Bomb,Jaehyo,U-Kwon,Park Kyung,Zico,P.O"
+                },
+                {
+                    "name": "Bob Girls",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add54865c004c367d78d4ba"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Bob_Girls_2014.9.18.jpg/264px-Bob_Girls_2014.9.18.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop",
+                    "labels": "Chrome Entertainment,Sony Music Korea",
+                    "members_str": ""
+                },
+                {
+                    "name": "Bohemian",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://www.hmgent.co.kr/http://www.iloen.com/",
+                    "_id": {
+                        "$oid": "5add54875c004c367d78d4bb"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/3/36/BohemianGroupConcertPhoto.jpg/267px-BohemianGroupConcertPhoto.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "pop,ballads",
+                    "labels": "Kingpin Entertainment, prior,HMG Entertainment (South Korea),LOEN Entertainment,(South Korea)",
+                    "members_str": "Park Sang Woo,Kim Yong Jin,Yoo Kyu Sang"
+                },
+                {
+                    "name": "Bolbbalgan4",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://www.shofar-music.com/",
+                    "_id": {
+                        "$oid": "5add54875c004c367d78d4bc"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/LG%EC%A0%84%EC%9E%90%2C_%E2%80%98LG_G6%E2%80%99%EB%A1%9C_%EC%A0%9C%EC%9E%91%ED%95%9C_%EC%9D%8C%EC%9B%90_%EA%B3%B5%EA%B0%9C_%2833965400595%29_%28cropped%29.jpg/300px-LG%EC%A0%84%EC%9E%90%2C_%E2%80%98LG_G6%E2%80%99%EB%A1%9C_%EC%A0%9C%EC%9E%91%ED%95%9C_%EC%9D%8C%EC%9B%90_%EA%B3%B5%EA%B0%9C_%2833965400595%29_%28cropped%29.jpg",
+                    "alias": "",
+                    "origin": "Yeongju,Gyeongsang,South Korea",
+                    "genres_str": "K-Pop,Dance,Folk pop",
+                    "labels": "Shofar Music",
+                    "members_str": "Ahn Ji-young,Woo Ji-yoon"
+                },
+                {
+                    "name": "The Boss",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://daikokudanji.com/",
+                    "_id": {
+                        "$oid": "5add54885c004c367d78d4bd"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "Acapella,pop",
+                    "labels": "Open World Ent.,(2010\u20132012),Poom Ent. (2013\u20132015),Xing Ent. (2015\u2013present),Sony Music Entertainment,Digital Adventure (Japan)",
+                    "members_str": "Mika,Karam,Hyunmin,Injun,Jay"
+                }
+            ]
+        },
+        {
+            "name": "Group6",
+            "children": [
+                {
+                    "name": "Boyfriend",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://starship-ent.com/boyfriend",
+                    "_id": {
+                        "$oid": "5add54885c004c367d78d4be"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Boyfriend_at_Tai_Po_Mega_Mall%2C_HK.jpg/300px-Boyfriend_at_Tai_Po_Mega_Mall%2C_HK.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop",
+                    "labels": "Starship Entertainment,Being Group,(Japan, 2012\u20132014),KISS Entertainment (Japan, 2015\u2013present)",
+                    "members_str": "Donghyun,Hyunseong,Jeongmin,Youngmin,Kwangmin,Minwoo"
+                },
+                {
+                    "name": "Boys Generally Asian",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add54885c004c367d78d4bf"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/en/thumb/3/38/Bga_transparent_logo.png/220px-Bga_transparent_logo.png",
+                    "alias": "",
+                    "origin": "Los Angeles,California,U.S.",
+                    "genres_str": "Novelty,K-pop",
+                    "labels": "",
+                    "members_str": "Ryan Higa,Justin Chon,Philip Wang,David Choi,Jun Sung Ahn"
+                },
+                {
+                    "name": "Boys Republic",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add54895c004c367d78d4c0"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Boys_Republic_Budapest_2015.JPG/300px-Boys_Republic_Budapest_2015.JPG",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop",
+                    "labels": "Universal Music,Happy Tribe Entertainment",
+                    "members_str": "Onejunn,Sunwoo,Sungjun,Minsu,Suwoong"
+                },
+                {
+                    "name": "The Boyz",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://www.theboyz.kr/http://theboyz.jp/",
+                    "_id": {
+                        "$oid": "5add54895c004c367d78d4c1"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/2/25/180112_%EB%8D%94%EB%B3%B4%EC%9D%B4%EC%A6%88_01.jpg/300px-180112_%EB%8D%94%EB%B3%B4%EC%9D%B4%EC%A6%88_01.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop",
+                    "labels": "Cre.ker Entertainment,Sony Music Entertainment Japan",
+                    "members_str": "Sangyeon,Jacob,Younghoon,Hyunjae,Juyeon,Kevin,New,Q,Ju Haknyeon,Hwall,Sunwoo,Eric"
+                },
+                {
+                    "name": "RaNia",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://cafe.daum.net/1248./",
+                    "_id": {
+                        "$oid": "5add54895c004c367d78d4c2"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/170915_KBS_%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC_%EC%B6%9C%EA%B7%BC%EA%B8%B8_BP_%EB%9D%BC%EB%8B%88%EC%95%84_01.jpg/300px-170915_KBS_%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC_%EC%B6%9C%EA%B7%BC%EA%B8%B8_BP_%EB%9D%BC%EB%8B%88%EC%95%84_01.jpg",
+                    "alias": "",
+                    "origin": "South Korea",
+                    "genres_str": "K-pop,Synthpop,Dance hall",
+                    "labels": "DR Music",
+                    "members_str": "Jieun,Yumin,Zi.U,Ttabo,Hyeme"
+                },
+                {
+                    "name": "Brave Girls",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add54895c004c367d78d4c3"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/d/da/%EB%B8%8C%EB%A0%88%EC%9D%B4%EB%B8%8C%EA%B1%B8%EC%8A%A4%28Brave_Girls%29_%ED%99%8D%EB%8C%80_%EB%AA%A8%EB%B0%94%EC%9D%BC%ED%8C%9D_%ED%99%94%EC%9D%B4%ED%8A%B8%EB%8D%B0%EC%9D%B4_%EC%9D%B4%EB%B2%A4%ED%8A%B8.jpg/250px-%EB%B8%8C%EB%A0%88%EC%9D%B4%EB%B8%8C%EA%B1%B8%EC%8A%A4%28Brave_Girls%29_%ED%99%8D%EB%8C%80_%EB%AA%A8%EB%B0%94%EC%9D%BC%ED%8C%9D_%ED%99%94%EC%9D%B4%ED%8A%B8%EB%8D%B0%EC%9D%B4_%EC%9D%B4%EB%B2%A4%ED%8A%B8.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop",
+                    "labels": "Brave Entertainment",
+                    "members_str": "Minyoung,Yujeong,Eunji,Yuna,Hyeran (hiatus),Hayun"
+                },
+                {
+                    "name": "Brown Eyed Girls",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://mystic89.net/artist/brown-eyed-girls",
+                    "_id": {
+                        "$oid": "5add548a5c004c367d78d4c4"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/1/12/Brown_Eyed_Girls_at_the_Expo_2012_Yeosu2.jpg/300px-Brown_Eyed_Girls_at_the_Expo_2012_Yeosu2.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,R&B,dance-pop",
+                    "labels": "Mystic Entertainment,(Present),Nega Network,(Past)",
+                    "members_str": "JeA,Miryo,Narsha,Gain"
+                },
+                {
+                    "name": "Brown Eyed Soul",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://www.santamusic.co.kr/BES",
+                    "_id": {
+                        "$oid": "5add548a5c004c367d78d4c5"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Brown_Eyed_Soul.jpg/220px-Brown_Eyed_Soul.jpg",
+                    "alias": "",
+                    "origin": "South Korea",
+                    "genres_str": "K-pop,R&B",
+                    "labels": "",
+                    "members_str": "Jungyup,Naul,Youngjun,Sung Hoon"
+                },
+                {
+                    "name": "Brown Eyes",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add548b5c004c367d78d4c6"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "South Korea",
+                    "genres_str": "K-pop,R&B",
+                    "labels": "",
+                    "members_str": "Yoon Gun,Naul"
+                },
+                {
+                    "name": "BTL (Beyond The Limit)",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://www.kiroycompany.com/",
+                    "_id": {
+                        "$oid": "5add548b5c004c367d78d4c7"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop",
+                    "labels": "Kiroy Company,SG Entertainment",
+                    "members_str": ""
+                }
+            ]
+        },
+        {
+            "name": "Group7",
+            "children": [
+                {
+                    "name": "BtoB",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add548b5c004c367d78d4c8"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/BTOB_in_Marie_Claire_Korea_2017.jpg/300px-BTOB_in_Marie_Claire_Korea_2017.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,Dance-pop,R&B,Ballad",
+                    "labels": "Cube Entertainment,Kiss Entertainment (Japan)",
+                    "members_str": "Eunkwang,Minhyuk,Changsub,Hyunsik,Peniel,Ilhoon,Sungjae"
+                },
+                {
+                    "name": "BTS",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://bts.ibighit.com",
+                    "_id": {
+                        "$oid": "5add548c5c004c367d78d4c9"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/%EB%B0%A9%ED%83%84%EC%86%8C%EB%85%84%EB%8B%A8%28BTS%29_180110_%EC%A0%9C_32%ED%9A%8C_%EA%B3%A8%EB%93%A0%EB%94%94%EC%8A%A4%ED%81%AC.png/300px-%EB%B0%A9%ED%83%84%EC%86%8C%EB%85%84%EB%8B%A8%28BTS%29_180110_%EC%A0%9C_32%ED%9A%8C_%EA%B3%A8%EB%93%A0%EB%94%94%EC%8A%A4%ED%81%AC.png",
+                    "alias": "Bangtan Boys,Bulletproof Boy Scouts,Beyond The Scene,Bangtan Sonyeondan",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,hip hop,R&B,EDM",
+                    "labels": "Big Hit Entertainment,Pony Canyon,Def Jam Japan",
+                    "members_str": "Jin,Suga,J-Hope,RM,Jimin,V,Jungkook"
+                },
+                {
+                    "name": "Bulldog Mansion",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add548c5c004c367d78d4ca"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "Pop rock",
+                    "labels": "Tubeamp,EIN Media",
+                    "members_str": "Lee Han-Cheol,(vocals, guitar),Seo Chang-Seok,(guitar),Lee Hanjoo (bass guitar),Jo Jeong-Beom (drums)"
+                },
+                {
+                    "name": "Busters",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://powerbusters.co.kr/",
+                    "_id": {
+                        "$oid": "5add548c5c004c367d78d4cb"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop",
+                    "labels": "Monstergram Inc.,JTG Entertainment",
+                    "members_str": "Minji,Hyungseo,Jisoo,Minjeong,Chaeyeon"
+                },
+                {
+                    "name": "Buzz\n\ubc84\uc988",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add548d5c004c367d78d4cc"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "Seoul,Republic of Korea",
+                    "genres_str": "Pop,rock,pop rock",
+                    "labels": "Santa Music",
+                    "members_str": "Yoon Woo Hyun (\uc724\uc6b0\ud604),Min Kyung-hoon,(\ubbfc\uacbd\ud6c8),Son Sung Hee (\uc190\uc131\ud76c),Kim Ye Jun (\uae40\uc608\uc900),Sin Jun Ki (\uc2e0\uc900\uae30)"
+                },
+                {
+                    "name": "Annyeongbada",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add548d5c004c367d78d4cd"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/5/58/Annyeongbada.jpg/220px-Annyeongbada.jpg",
+                    "alias": "",
+                    "origin": "South Korea",
+                    "genres_str": "Rock,K-Pop,Indie",
+                    "labels": "Fluxus Music",
+                    "members_str": "Namoo,Woo Myung-jae,Woo Sun-jae"
+                },
+                {
+                    "name": "C-REAL",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add548d5c004c367d78d4ce"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,dance,R&B",
+                    "labels": "N.A.P Entertainment",
+                    "members_str": "Chemi,Effie,Ann J"
+                },
+                {
+                    "name": "Can",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add548d5c004c367d78d4cf"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "South Korea",
+                    "genres_str": "K-pop",
+                    "labels": "JJ Holic Media",
+                    "members_str": "Lee Jong-won,Bae Ki-sung"
+                },
+                {
+                    "name": "Chakra",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add548e5c004c367d78d4d0"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Chakra_korean.jpg/220px-Chakra_korean.jpg",
+                    "alias": "",
+                    "origin": "South Korea",
+                    "genres_str": "R&B,pop,K-Pop,Dance",
+                    "labels": "Cream Records,Zam Entertainment,Kiss Entertainment",
+                    "members_str": ""
+                },
+                {
+                    "name": "Champs",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add548e5c004c367d78d4d1"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "S\u00e3o Paulo,Brazil",
+                    "genres_str": "Dance-pop,hip hop,K-pop,R&B",
+                    "labels": "JS Entertainment",
+                    "members_str": ""
+                }
+            ]
+        },
+        {
+            "name": "Group8",
+            "children": [
+                {
+                    "name": "Cherry Filter\n\uccb4\ub9ac\ud544\ud130",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://www.cherryfilter.com",
+                    "_id": {
+                        "$oid": "5add548e5c004c367d78d4d2"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "South Korea",
+                    "genres_str": "Rock,alternative rock",
+                    "labels": "Music Farm",
+                    "members_str": "Jijonbo,Yaenhead,Sonstar,Cho Youjeen"
+                },
+                {
+                    "name": "Chocolat",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://cafe.daum.net/realchocolat",
+                    "_id": {
+                        "$oid": "5add548f5c004c367d78d4d3"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/6/63/ChoColat.jpg/268px-ChoColat.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,electropop,R&B",
+                    "labels": "Paramount Music Entertainment,Universal Music",
+                    "members_str": ""
+                },
+                {
+                    "name": "CLC",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://cubeent.co.kr/clc",
+                    "_id": {
+                        "$oid": "5add548f5c004c367d78d4d4"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/180302_CLC_arriving_at_Music_Bank.png/300px-180302_CLC_arriving_at_Music_Bank.png",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop",
+                    "labels": "Cube Entertainment",
+                    "members_str": "Seunghee,Yujin,Seungyeon,Sorn,Yeeun,Elkie,Eunbin"
+                },
+                {
+                    "name": "Cleo",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add548f5c004c367d78d4d5"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop",
+                    "labels": "",
+                    "members_str": ""
+                },
+                {
+                    "name": "Click-B\n\ud074\ub9ad\ube44",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add54905c004c367d78d4d6"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/%EC%98%A4%EB%B9%A0%EB%93%A4%EC%9D%B4_%EB%8F%8C%EC%95%84%EC%99%94%EB%8B%A4%21_13%EB%85%84%EB%A7%8C%EC%9D%98_%EC%99%84%EC%A0%84%EC%B2%B4_%EC%BB%B4%EB%B0%B1_%ED%81%B4%EB%A6%AD%EB%B9%84_%28%EC%8B%9D%EC%8B%A0%EB%A1%9C%EB%93%9C_GOURMET_ROAD%29_261%ED%9A%8C_%EC%98%88%EA%B3%A0.jpg/300px-%EC%98%A4%EB%B9%A0%EB%93%A4%EC%9D%B4_%EB%8F%8C%EC%95%84%EC%99%94%EB%8B%A4%21_13%EB%85%84%EB%A7%8C%EC%9D%98_%EC%99%84%EC%A0%84%EC%B2%B4_%EC%BB%B4%EB%B0%B1_%ED%81%B4%EB%A6%AD%EB%B9%84_%28%EC%8B%9D%EC%8B%A0%EB%A1%9C%EB%93%9C_GOURMET_ROAD%29_261%ED%9A%8C_%EC%98%88%EA%B3%A0.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,hip hop,rock,dance",
+                    "labels": "DSP Media",
+                    "members_str": "Woo Yun-suk,Oh Jong-hyuk,Kim Sang-hyuk,Kim Tae-hyung,Ha Hyun-gon,Yoo Ho-suk,No Min-hyuk"
+                },
+                {
+                    "name": "Clover",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add54905c004c367d78d4d7"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "Hip hop",
+                    "labels": "GYM Entertainment",
+                    "members_str": "Eun Ji-won,Mr. Tyfoon,Gilme"
+                },
+                {
+                    "name": "CNBLUE",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://fncent.com/cnblue/",
+                    "_id": {
+                        "$oid": "5add54905c004c367d78d4d8"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/0/08/CNBLUE_-_20160227_Come_Together_in_Guangzhou_1.jpg/285px-CNBLUE_-_20160227_Come_Together_in_Guangzhou_1.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "Rock,pop,electronic",
+                    "labels": "FNC Entertainment,AI Entertainment,(Japan),Warner Music Japan,(Japan)",
+                    "members_str": "Jung Yong-hwa,Lee Jong-hyun,Kang Min-hyuk,Lee Jung-shin"
+                },
+                {
+                    "name": "CocoSori",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://molent.co.kr",
+                    "_id": {
+                        "$oid": "5add54905c004c367d78d4d9"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/CocoSori_in_2016.jpg/220px-CocoSori_in_2016.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,J-pop",
+                    "labels": "Mole Entertainment",
+                    "members_str": "Coco,Sori"
+                },
+                {
+                    "name": "Co-Ed School",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add54915c004c367d78d4da"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "Seoul, South Korea",
+                    "genres_str": "K-pop",
+                    "labels": "Core Contents Media",
+                    "members_str": ""
+                },
+                {
+                    "name": "Cool",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add54915c004c367d78d4db"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "South Korea",
+                    "genres_str": "K-pop,dance,dance-pop",
+                    "labels": "KT Music,(official publisher)",
+                    "members_str": "Lee Jae-hoon,Yuri,Kim Sung-soo"
+                }
+            ]
+        },
+        {
+            "name": "Group9",
+            "children": [
+                {
+                    "name": "Cosmic Girls",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://starship-ent.com/profile/musician/wjsn.php",
+                    "_id": {
+                        "$oid": "5add54915c004c367d78d4dc"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/170701_%EC%9A%B0%EC%A3%BC%EC%86%8C%EB%85%80_%EC%8B%A0%EC%B4%8C_%EA%B2%8C%EB%A6%B4%EB%9D%BC.jpg/300px-170701_%EC%9A%B0%EC%A3%BC%EC%86%8C%EB%85%80_%EC%8B%A0%EC%B4%8C_%EA%B2%8C%EB%A6%B4%EB%9D%BC.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,bubblegum pop",
+                    "labels": "Starship Entertainment,Yuehua Entertainment",
+                    "members_str": "Seola,Xuan Yi,Bona,Exy,Soobin,Luda,Dawon,Eunseo,Cheng Xiao,Mei Qi,Yeoreum,Dayoung,Yeonjung"
+                },
+                {
+                    "name": "Crayon Pop",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://chrome-ent.co.kr",
+                    "_id": {
+                        "$oid": "5add54925c004c367d78d4dd"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/4/40/%ED%81%AC%EB%A0%88%EC%9A%A9%ED%8C%9D%28Crayon_Pop%29_%EB%8F%84%EC%8B%9C_%EA%BC%AC%EB%A7%88%EB%93%A4%EC%9D%98_%ED%96%89%EB%B3%B5%ED%95%9C_%EC%B6%95%EC%A0%9C_%ED%8B%B0%EB%B8%8C%EB%A1%9C%EB%93%9C_%EC%9B%90%EC%9D%8C%EB%B0%A9%EC%86%A1_01.jpg/300px-%ED%81%AC%EB%A0%88%EC%9A%A9%ED%8C%9D%28Crayon_Pop%29_%EB%8F%84%EC%8B%9C_%EA%BC%AC%EB%A7%88%EB%93%A4%EC%9D%98_%ED%96%89%EB%B3%B5%ED%95%9C_%EC%B6%95%EC%A0%9C_%ED%8B%B0%EB%B8%8C%EB%A1%9C%EB%93%9C_%EC%9B%90%EC%9D%8C%EB%B0%A9%EC%86%A1_01.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,trot,Nu-disco,dance-pop",
+                    "labels": "Chrome Entertainment,Sony Music,Pony Canyon",
+                    "members_str": "Geummi,Ellin,Choa,Way"
+                },
+                {
+                    "name": "Cross Gene",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://crossgene.co.krhttp://crossgene.jp",
+                    "_id": {
+                        "$oid": "5add54925c004c367d78d4de"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/9/92/09%EC%9B%94_26%EC%9D%BC_%EB%AE%A4%EC%BD%98_%EC%87%BC%EC%BC%80%EC%9D%B4%EC%8A%A4_MUCON_Showcase_%2833%29.jpg/300px-09%EC%9B%94_26%EC%9D%BC_%EB%AE%A4%EC%BD%98_%EC%87%BC%EC%BC%80%EC%9D%B4%EC%8A%A4_MUCON_Showcase_%2833%29.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-Pop,J-Pop",
+                    "labels": "Amuse Korea,Universal Music,(2012-2017 in South Korea, 2013-present in Japan),LOEN,(2017-present in South Korea)",
+                    "members_str": "Shin,Takuya,Seyoung,Sangmin,Yongseok"
+                },
+                {
+                    "name": "D-Unit",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add54925c004c367d78d4df"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "South Korea",
+                    "genres_str": "K-pop,pop,hip hop",
+                    "labels": "D-Business Entertainment",
+                    "members_str": ""
+                },
+                {
+                    "name": "D.Holic",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://starroadent.com",
+                    "_id": {
+                        "$oid": "5add54935c004c367d78d4e0"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,dance",
+                    "labels": "Star Road Entertainment",
+                    "members_str": ""
+                },
+                {
+                    "name": "Dal Shabet",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add54935c004c367d78d4e1"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Dal_Shabet_on_11_June_2016_01.jpg/256px-Dal_Shabet_on_11_June_2016_01.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,dance-pop,Synthpop",
+                    "labels": "Happy Face Entertainment",
+                    "members_str": "Ah Young,Serri,Subin,Woohee"
+                },
+                {
+                    "name": "Davichi",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add54935c004c367d78d4e2"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/2/25/170114_%EB%B9%84%EB%B0%9C%EB%94%94%ED%8C%8C%ED%81%AC_%EB%9D%BC%EC%9D%B4%EB%94%A9_%EC%BD%98%EC%84%9C%ED%8A%B8_-_%EB%8B%A4%EB%B9%84%EC%B9%98_%EC%A7%81%EC%B0%8D_05.jpg/220px-170114_%EB%B9%84%EB%B0%9C%EB%94%94%ED%8C%8C%ED%81%AC_%EB%9D%BC%EC%9D%B4%EB%94%A9_%EC%BD%98%EC%84%9C%ED%8A%B8_-_%EB%8B%A4%EB%B9%84%EC%B9%98_%EC%A7%81%EC%B0%8D_05.jpg",
+                    "alias": "",
+                    "origin": "",
+                    "genres_str": "Pop,R&B",
+                    "labels": "Core Contents Media,CJ E&M Music,(,B2M Entertainment,)",
+                    "members_str": "Lee Hae-ri,Kang Min-kyung"
+                },
+                {
+                    "name": "Day6",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://day6.jype.com",
+                    "_id": {
+                        "$oid": "5add54945c004c367d78d4e3"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/2017_DAY6_TAIPEI.JPG/300px-2017_DAY6_TAIPEI.JPG",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,pop rock",
+                    "labels": "JYP Entertainment,Warner Music Japan,(Japan)",
+                    "members_str": "Jae,Sungjin,Young K,Wonpil,Dowoon"
+                },
+                {
+                    "name": "Deux",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add54945c004c367d78d4e4"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/en/thumb/0/02/Deux_%281%29.jpg/220px-Deux_%281%29.jpg",
+                    "alias": "",
+                    "origin": "South Korea",
+                    "genres_str": "K-pop",
+                    "labels": "",
+                    "members_str": ""
+                },
+                {
+                    "name": "DIA",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://mbk-ent.com/main_dia",
+                    "_id": {
+                        "$oid": "5add54945c004c367d78d4e5"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/170616_%ED%99%98%EA%B2%BD%EC%9D%98_%EB%82%A0_6%EC%9B%94%EC%9D%98_%EA%B8%B0%EC%A0%81_%EC%BD%98%EC%84%9C%ED%8A%B8_-_%EB%8B%A4%EC%9D%B4%EC%95%84_%27%EC%99%A0%EC%A7%80%27_4K_%EC%A7%81%EC%BA%A0_by_DaftTaengk_37s.jpg/300px-170616_%ED%99%98%EA%B2%BD%EC%9D%98_%EB%82%A0_6%EC%9B%94%EC%9D%98_%EA%B8%B0%EC%A0%81_%EC%BD%98%EC%84%9C%ED%8A%B8_-_%EB%8B%A4%EC%9D%B4%EC%95%84_%27%EC%99%A0%EC%A7%80%27_4K_%EC%A7%81%EC%BA%A0_by_DaftTaengk_37s.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,Bubblegum pop",
+                    "labels": "MBK Entertainment",
+                    "members_str": "Eunice,Jueun,Huihyeon,Jenny,Yebin,Eunjin,Chaeyeon,Eunchae,Somyi"
+                }
+            ]
+        },
+        {
+            "name": "Group10",
+            "children": [
+                {
+                    "name": "Diva",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add54955c004c367d78d4e6"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "Seoul,Korea",
+                    "genres_str": "K-pop,R&B,pop,hip hop",
+                    "labels": "Cream Records,Zam Entertainment,Kiss Entertainment",
+                    "members_str": ""
+                },
+                {
+                    "name": "DMTN",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://dmtn.co.kr",
+                    "_id": {
+                        "$oid": "5add54955c004c367d78d4e7"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/4/42/20101217_%EB%8B%AC%EB%A7%88%EC%8B%9C%EC%95%88_%EB%B6%80%EC%B2%9C%ED%88%AC%EB%82%98_%EA%B2%BD%EC%9D%B8%EA%B3%B5%EA%B0%9C%EB%B0%A9%EC%86%A1_1.jpg/268px-20101217_%EB%8B%AC%EB%A7%88%EC%8B%9C%EC%95%88_%EB%B6%80%EC%B2%9C%ED%88%AC%EB%82%98_%EA%B2%BD%EC%9D%B8%EA%B3%B5%EA%B0%9C%EB%B0%A9%EC%86%A1_1.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "Hip hop,R&B,pop",
+                    "labels": "Monkey Funch Entertainment,IS Entermedia Group,works Entertainment",
+                    "members_str": "Inati,Da-ri,Simon,Dong-lim,Jee-su,Daniel"
+                },
+                {
+                    "name": "Double S 301",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://doubles301.jp/",
+                    "_id": {
+                        "$oid": "5add54955c004c367d78d4e8"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/5/53/SS301.jpg/300px-SS301.jpg",
+                    "alias": "SS301,SS501 Special Project Group",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,J-pop",
+                    "labels": "CI Entertainment",
+                    "members_str": "Heo Young-saeng,Kim Kyu-jong,Kim Hyung-jun"
+                },
+                {
+                    "name": "AA",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://cafe.daum.net/2011AA",
+                    "_id": {
+                        "$oid": "5add54965c004c367d78d4e9"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop",
+                    "labels": "Wellmade Yedang,Blue Star Entertainment,LOEN",
+                    "members_str": "Woosang,Hoik,Joowon,Jinhong,Kimchi,Aoora"
+                },
+                {
+                    "name": "Dreamcatcher",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://www.dreamcatcher7.com",
+                    "_id": {
+                        "$oid": "5add54965c004c367d78d4ea"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/170822_%EC%83%81%EC%95%94_%EB%93%9C%EB%A6%BC%EC%BA%90%EC%B3%90_%EC%A7%81%EC%BA%A0_18_DREAMCATCHER_tbs_%ED%8C%A9%ED%8A%B8in%EC%8A%A4%ED%83%80_10s.jpg/300px-170822_%EC%83%81%EC%95%94_%EB%93%9C%EB%A6%BC%EC%BA%90%EC%B3%90_%EC%A7%81%EC%BA%A0_18_DREAMCATCHER_tbs_%ED%8C%A9%ED%8A%B8in%EC%8A%A4%ED%83%80_10s.jpg",
+                    "alias": "",
+                    "origin": "Seoul, South Korea",
+                    "genres_str": "K-pop,Rock,R&B",
+                    "labels": "Happy Face Entertainment",
+                    "members_str": "JiU,SuA,Siyeon,Handong,Yoohyeon,Dami,Gahyeon"
+                },
+                {
+                    "name": "Dynamic Duo",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://www.amoebaculture.com/business/front/aboutAC/dynamicDuo.do",
+                    "_id": {
+                        "$oid": "5add54965c004c367d78d4eb"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "Korean hip hop",
+                    "labels": "Amoeba Culture",
+                    "members_str": "Choiza,Gaeko"
+                },
+                {
+                    "name": "Elris",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add54965c004c367d78d4ec"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/170624_%EC%97%98%EB%A6%AC%EC%8A%A4_%EC%97%AC%EC%9D%98%EB%8F%84_IFC_%ED%8C%AC%EC%82%AC%EC%9D%B8%ED%9A%8C_-_%EC%97%98%EB%A6%AC%EC%8A%A4_%27%EC%9A%B0%EB%A6%AC_%EC%B2%98%EC%9D%8C%27_4K_%EC%A7%81%EC%BA%A0_by_DaftTaengk_4m26s.jpg/300px-170624_%EC%97%98%EB%A6%AC%EC%8A%A4_%EC%97%AC%EC%9D%98%EB%8F%84_IFC_%ED%8C%AC%EC%82%AC%EC%9D%B8%ED%9A%8C_-_%EC%97%98%EB%A6%AC%EC%8A%A4_%27%EC%9A%B0%EB%A6%AC_%EC%B2%98%EC%9D%8C%27_4K_%EC%A7%81%EC%BA%A0_by_DaftTaengk_4m26s.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,dance",
+                    "labels": "Hunus Entertainment",
+                    "members_str": "Bella,Hyeseong,Yukyung,Sohee,Karin"
+                },
+                {
+                    "name": "EvoL",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add54975c004c367d78d4ed"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "South Korea",
+                    "genres_str": "K-pop,Hip-hop,R&B",
+                    "labels": "Stardom Entertainment",
+                    "members_str": ""
+                },
+                {
+                    "name": "EXID",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://bananact.com/main_exid",
+                    "_id": {
+                        "$oid": "5add54975c004c367d78d4ee"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/140824_EXID_01.jpg/300px-140824_EXID_01.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,Trip hop,electropop,R&B",
+                    "labels": "Banana Culture Entertainment,AB Entertainment",
+                    "members_str": "Solji,LE,Hani,Hyelin,Jeonghwa"
+                },
+                {
+                    "name": "Exo",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://exo.smtown.com",
+                    "_id": {
+                        "$oid": "5add54975c004c367d78d4ef"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Exo_monster_160618_suwon.png/300px-Exo_monster_160618_suwon.png",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,electronica,hip hop,R&B",
+                    "labels": "S.M. Entertainment,Avex Trax",
+                    "members_str": "Xiumin,Suho,Lay,Baekhyun,Chen,Chanyeol,D.O.,Kai,Sehun"
+                }
+            ]
+        },
+        {
+            "name": "Group11",
+            "children": [
+                {
+                    "name": "Exo-CBX",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://exo-cbx.smtown.com",
+                    "_id": {
+                        "$oid": "5add54985c004c367d78d4f0"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/6/65/EXO_at_the_SMTown_Week_02.jpg/300px-EXO_at_the_SMTown_Week_02.jpg",
+                    "alias": "ChenBaekXi,CBX",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop",
+                    "labels": "S.M. Entertainment",
+                    "members_str": "Xiumin,Baekhyun,Chen"
+                },
+                {
+                    "name": "F-ve Dolls",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add54985c004c367d78d4f1"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/2/22/F-VE_Dolls.jpg/300px-F-VE_Dolls.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,dance-pop",
+                    "labels": "Core Contents Media,GM Contents Media (2012)",
+                    "members_str": ""
+                },
+                {
+                    "name": "F.Cuz",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://www.fcuz.co.kr/",
+                    "_id": {
+                        "$oid": "5add54985c004c367d78d4f2"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "Seoul,South Korea,\u2014,\u2014,Gorgeous",
+                    "genres_str": "K-pop,pop,dance",
+                    "labels": "CAN&J Entertainment (South Korea),Seedmusic (Taiwan),Tunes Tracks/e-SUM,(Japan),Tunes-Will Entertainment (South Korea),Independent",
+                    "members_str": "Jinon,Kan,Yejun,Daegeon,Raehyun"
+                },
+                {
+                    "name": "F.T. Island",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://fncent.com/ftisland/http://ftisland-official.jp/",
+                    "_id": {
+                        "$oid": "5add54995c004c367d78d4f3"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/FT_Island_from_acrofan.jpg/300px-FT_Island_from_acrofan.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-rock",
+                    "labels": "FNC Entertainment,AI Entertainment,(Japan),Warner Music Japan,(Japan)",
+                    "members_str": "Choi Jong-hoon,Lee Hong-gi,Lee Jae-jin,Song Seung-hyun,Choi Min-hwan"
+                },
+                {
+                    "name": "f(x)",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://fx.smtown.com",
+                    "_id": {
+                        "$oid": "5add54995c004c367d78d4f4"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/b/be/151025_f%28x%29_01.jpg/300px-151025_f%28x%29_01.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,electropop,synthpop",
+                    "labels": "S.M. Entertainment,Avex Trax",
+                    "members_str": "Victoria,Luna,Amber,Krystal"
+                },
+                {
+                    "name": "Favorite",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add54995c004c367d78d4f5"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop",
+                    "labels": "Astory Entertainment",
+                    "members_str": "Gaeul,Seoyeon,Saebom,Sukyung,Ahra,Junghee"
+                },
+                {
+                    "name": "Fiestar",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://ifaveent.co.kr/?p=1570",
+                    "_id": {
+                        "$oid": "5add54995c004c367d78d4f6"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Fiestar_%28South_Korean_girl_group%29.jpg/300px-Fiestar_%28South_Korean_girl_group%29.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop",
+                    "labels": "Kakao M,(,Fave Entertainment,)",
+                    "members_str": "Jei,Cao Lu,Linzy,Hyemi,Yezi"
+                },
+                {
+                    "name": "Fin.K.L",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add549a5c004c367d78d4f7"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop",
+                    "labels": "DSP Media",
+                    "members_str": ""
+                },
+                {
+                    "name": "Fly to the Sky",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://www.ftts.co.kr/",
+                    "_id": {
+                        "$oid": "5add549a5c004c367d78d4f8"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Fly_to_the_Sky_in_2008.jpg/220px-Fly_to_the_Sky_in_2008.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,R&B",
+                    "labels": "S.M. Entertainment,(1999\u20132004),PFull Entertainment,(2004\u20132009),H2 Media (2014\u2013present)",
+                    "members_str": "Hwanhee,Brian Joo"
+                },
+                {
+                    "name": "Fromis 9",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add549a5c004c367d78d4f9"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/171222_%ED%94%84%EB%A1%9C%EB%AF%B8%EC%8A%A4_9.jpg/300px-171222_%ED%94%84%EB%A1%9C%EB%AF%B8%EC%8A%A4_9.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop",
+                    "labels": "Stone Music Entertainment,CJ E&M Music",
+                    "members_str": "Lee Sae-rom,Song Ha-young,Jang Gyu-ri,Park Ji-won,Roh Ji-sun,Lee Seo-yeon,Lee Chae-young,Lee Na-gyung,Baek Ji-heon"
+                }
+            ]
+        },
+        {
+            "name": "Group12",
+            "children": [
+                {
+                    "name": "Gangkiz",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add549a5c004c367d78d4fa"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-Pop",
+                    "labels": "Core Contents Media,GM Contents Media (2012)",
+                    "members_str": ""
+                },
+                {
+                    "name": "Gavy NJ",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add549b5c004c367d78d4fb"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Gavy_NJ.jpg/220px-Gavy_NJ.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,Ballad,R&B",
+                    "labels": "Good Fellas Entertainment,(2010\u2013present),KW Entertainment,(2016\u2013present),Vitamin Entertainment,(2008\u20132010),Good Berry Entertainment,(2005\u20132006)",
+                    "members_str": "Jenny,Gunji,Seorin"
+                },
+                {
+                    "name": "GD & TOP",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add549b5c004c367d78d4fc"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/GD_%26_TOP_-_MADE_THE_MOVIE_Premiere.jpg/300px-GD_%26_TOP_-_MADE_THE_MOVIE_Premiere.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,hip hop",
+                    "labels": "YG Entertainment",
+                    "members_str": "G-Dragon,T.O.P"
+                },
+                {
+                    "name": "GD X Taeyang",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add549b5c004c367d78d4fd"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,hip hop",
+                    "labels": "YG Entertainment",
+                    "members_str": "G-Dragon,Taeyang"
+                },
+                {
+                    "name": "GFriend",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://facebook.com/gfrdofficial",
+                    "_id": {
+                        "$oid": "5add549b5c004c367d78d4fe"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/%28TV10%29_%EC%97%AC%EC%9E%90%EC%B9%9C%EA%B5%AC%C2%B7%ED%8A%B8%EC%99%80%EC%9D%B4%EC%8A%A4%C2%B7%EB%B8%94%EB%9E%99%ED%95%91%ED%81%AC%2C_%EB%A0%88%EB%93%9C%EC%B9%B4%ED%8E%AB_%EA%B0%81%EC%96%91%EA%B0%81%EC%83%89_%ED%8C%A8%EC%85%98_%EC%97%B4%EC%A0%84_%282017_%EA%B3%A8%EB%93%A0%EB%94%94%EC%8A%A4%ED%81%AC_%EB%A0%88%EB%93%9C%EC%B9%B4%ED%8E%AB%29_1m6s.jpg/300px-%28TV10%29_%EC%97%AC%EC%9E%90%EC%B9%9C%EA%B5%AC%C2%B7%ED%8A%B8%EC%99%80%EC%9D%B4%EC%8A%A4%C2%B7%EB%B8%94%EB%9E%99%ED%95%91%ED%81%AC%2C_%EB%A0%88%EB%93%9C%EC%B9%B4%ED%8E%AB_%EA%B0%81%EC%96%91%EA%B0%81%EC%83%89_%ED%8C%A8%EC%85%98_%EC%97%B4%EC%A0%84_%282017_%EA%B3%A8%EB%93%A0%EB%94%94%EC%8A%A4%ED%81%AC_%EB%A0%88%EB%93%9C%EC%B9%B4%ED%8E%AB%29_1m6s.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop",
+                    "labels": "Source Music,King Records",
+                    "members_str": "Sowon,Yerin,Eunha,Yuju,SinB,Umji"
+                },
+                {
+                    "name": "Global Icon (GI)",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add549c5c004c367d78d4ff"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop",
+                    "labels": "Simtong Entertainment,(South Korea)",
+                    "members_str": ""
+                },
+                {
+                    "name": "Girl Friends",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://muz.co.kr/girlfriends/",
+                    "_id": {
+                        "$oid": "5add549c5c004c367d78d500"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "Korea",
+                    "genres_str": "K-pop,R&B",
+                    "labels": "Doremi Media",
+                    "members_str": "Chae Rina,Yuri"
+                },
+                {
+                    "name": "Girl's Day",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://dai5y.com",
+                    "_id": {
+                        "$oid": "5add549c5c004c367d78d501"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/6/60/%EA%B1%B8%EC%8A%A4%EB%8D%B0%EC%9D%B4%28Girl%27s_Day%29_2015_%ED%94%BC%EB%8B%89%EC%8A%A4_%EC%84%AC%EB%A8%B8_%ED%8E%98%EC%8A%A4%ED%8B%B0%EB%B2%8C_%EC%9D%BC%EC%82%B0_%ED%82%A8%ED%85%8D%EC%8A%A4_02.jpg/286px-%EA%B1%B8%EC%8A%A4%EB%8D%B0%EC%9D%B4%28Girl%27s_Day%29_2015_%ED%94%BC%EB%8B%89%EC%8A%A4_%EC%84%AC%EB%A8%B8_%ED%8E%98%EC%8A%A4%ED%8B%B0%EB%B2%8C_%EC%9D%BC%EC%82%B0_%ED%82%A8%ED%85%8D%EC%8A%A4_02.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,Dance-pop,Electro swing",
+                    "labels": "Dream Tea Entertainment,(South Korea),Kiss Entertainment (Japan)",
+                    "members_str": "Sojin,Yura,Minah,Hyeri"
+                },
+                {
+                    "name": "Girls' Generation",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://girlsgeneration.smtown.com",
+                    "_id": {
+                        "$oid": "5add549d5c004c367d78d502"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/2/23/Girls%27_Generation_at_DMC_Festival_2015_MBC_Radio_DJ_Concert_02.jpg/300px-Girls%27_Generation_at_DMC_Festival_2015_MBC_Radio_DJ_Concert_02.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,bubblegum pop,electropop",
+                    "labels": "S.M. Entertainment,EMI Japan,Interscope",
+                    "members_str": "Taeyeon,Sunny,Tiffany,Hyoyeon,Yuri,Sooyoung,Yoona,Seohyun"
+                },
+                {
+                    "name": "Girls' Generation-TTS",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://Girlsgeneration-tts.smtown.com",
+                    "_id": {
+                        "$oid": "5add549d5c004c367d78d503"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/TaeTiSeo_at_a_fan_signing_event_for_Louis_Quatorze_in_November_2015_%282%29.jpg/300px-TaeTiSeo_at_a_fan_signing_event_for_Louis_Quatorze_in_November_2015_%282%29.jpg",
+                    "alias": "TaeTiSeo,TTS",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,dance-pop,electropop",
+                    "labels": "S.M. Entertainment,Universal Music Group",
+                    "members_str": "Taeyeon,Tiffany,Seohyun"
+                }
+            ]
+        },
+        {
+            "name": "Group13",
+            "children": [
+                {
+                    "name": "Glam",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add549d5c004c367d78d504"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/GLAM_%28South_Korean_band%29.jpg/220px-GLAM_%28South_Korean_band%29.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop",
+                    "labels": "Big Hit Entertainment,Source Music",
+                    "members_str": ""
+                },
+                {
+                    "name": "Golden Child",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add549d5c004c367d78d505"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/171103_%EA%B3%A8%EB%93%A0%EC%B0%A8%EC%9D%BC%EB%93%9C.jpg/300px-171103_%EA%B3%A8%EB%93%A0%EC%B0%A8%EC%9D%BC%EB%93%9C.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop",
+                    "labels": "Woollim Entertainment",
+                    "members_str": "Daeyeol,Y,Jangjun,Tag,Seungmin,Jaehyun,Jibeom,Donghyun,Joochan,Bomin"
+                },
+                {
+                    "name": "Goofy (\uad6c\ud53c)",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add549e5c004c367d78d506"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "",
+                    "genres_str": "",
+                    "labels": "StarCore Entertainment",
+                    "members_str": "Big Bounce,Shin Dong-wook,Lee Seung-Kwang"
+                },
+                {
+                    "name": "Got7",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://got7.jype.com",
+                    "_id": {
+                        "$oid": "5add549e5c004c367d78d507"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/171013_GOT7_KBS_%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC_%EC%B6%9C%EA%B7%BC%EA%B8%B8.jpg/300px-171013_GOT7_KBS_%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC_%EC%B6%9C%EA%B7%BC%EA%B8%B8.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,hip hop,trap,R&B",
+                    "labels": "JYP Entertainment,Sony Music Entertainment",
+                    "members_str": "Mark,JB,Jackson,Jinyoung,Youngjae,BamBam,Yugyeom"
+                },
+                {
+                    "name": "GP Basic",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add549e5c004c367d78d508"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "Pop,dance",
+                    "labels": "Jacyhan International,Timo Entertainment",
+                    "members_str": ""
+                },
+                {
+                    "name": "The Grace",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://thegrace.smtown.comhttp://thegracedns.smtown.com",
+                    "_id": {
+                        "$oid": "5add549f5c004c367d78d509"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/8/86/The_Grace_from_acrofan.jpg/250px-The_Grace_from_acrofan.jpg",
+                    "alias": "CSJH The Grace,Tenjochiki,TSZX The Grace",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "Pop,R&B,dance,A cappella",
+                    "labels": "S.M. Entertainment,Avex Asia,Rhythm Zone",
+                    "members_str": "Lina,Dana,Sunday"
+                },
+                {
+                    "name": "Gugudan",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://www.jelly-fish.co.kr/sub/artist_singer02.php?prof_id=32&num=6#a1",
+                    "_id": {
+                        "$oid": "5add549f5c004c367d78d50a"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/170909_%EA%B5%AC%EA%B5%AC%EB%8B%A8.jpg/300px-170909_%EA%B5%AC%EA%B5%AC%EB%8B%A8.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop",
+                    "labels": "Jellyfish Entertainment",
+                    "members_str": "Mimi,Hana,Haebin,Nayoung,Sejeong,Sally,Soyee,Mina,Hyeyeon"
+                },
+                {
+                    "name": "H.O.T.",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add549f5c004c367d78d50b"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,dance,hip hop",
+                    "labels": "SM Entertainment",
+                    "members_str": "Moon Hee-joon,Jang Woo-hyuk,Tony An,Kangta,Lee Jae-won"
+                },
+                {
+                    "name": "HALO (\ud5e4\uc77c\ub85c)",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add549f5c004c367d78d50c"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Idol_group_%E2%80%98HALO%E2%80%99_members_arrive_at_the_red_carpet_event_of_the_Puchon_International_Fantastic_Film_Festival_in_Bucheon_on_July_17%2C_2014.jpg/220px-Idol_group_%E2%80%98HALO%E2%80%99_members_arrive_at_the_red_carpet_event_of_the_Puchon_International_Fantastic_Film_Festival_in_Bucheon_on_July_17%2C_2014.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,Dance-pop,Hip hop",
+                    "labels": "Histar Entertainment",
+                    "members_str": "Dino,Inhaeng,Ooon,Jaeyong,Heecheon,Yoondong"
+                },
+                {
+                    "name": "HeartB",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://heart-b.com",
+                    "_id": {
+                        "$oid": "5add54a05c004c367d78d50d"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "Ballad",
+                    "labels": "MarblePop",
+                    "members_str": "Dojin,Jinwook,Chanyeong,Byulha"
+                }
+            ]
+        },
+        {
+            "name": "Group14",
+            "children": [
+                {
+                    "name": "Hello Venus",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://www.fantagio.kr/artists/hellovenus/",
+                    "_id": {
+                        "$oid": "5add54a05c004c367d78d50e"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/160508_%ED%97%AC%EB%A1%9C%EB%B9%84%EB%84%88%EC%8A%A4_%ED%8C%AC%EB%AF%B8%ED%8C%85_1.jpg/300px-160508_%ED%97%AC%EB%A1%9C%EB%B9%84%EB%84%88%EC%8A%A4_%ED%8C%AC%EB%AF%B8%ED%8C%85_1.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop",
+                    "labels": "Fantagio Music,Pledis Entertainment,Tricell Media",
+                    "members_str": "Alice,Nara,Lime,Yooyoung,Seoyoung,Yeoreum"
+                },
+                {
+                    "name": "Hi Suhyun",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add54a05c004c367d78d50f"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop",
+                    "labels": "YG Entertainment",
+                    "members_str": "Lee Hi,Lee Su-hyun"
+                },
+                {
+                    "name": "Highlight",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add54a15c004c367d78d510"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/%28Marie_Claire_Korea%29_BEAST_is_BACK%21_%287%29.jpg/300px-%28Marie_Claire_Korea%29_BEAST_is_BACK%21_%287%29.jpg",
+                    "alias": "B2ST,Beast",
+                    "origin": "South Korea",
+                    "genres_str": "K-pop",
+                    "labels": "Around US Entertainment,Cube Entertainment,Universal",
+                    "members_str": "Yoon Doo-joon,Yong Jun-hyung,Yang Yo-seob,Lee Gi-kwang,Son Dong-woon"
+                },
+                {
+                    "name": "History\n",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://ifaveent.co.kr/?p=63",
+                    "_id": {
+                        "$oid": "5add54a15c004c367d78d511"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HISTORY_%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC.jpg/220px-HISTORY_%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop",
+                    "labels": "LOEN Entertainment,KISS Entertainment (Japan)",
+                    "members_str": ""
+                },
+                {
+                    "name": "Homme",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add54a15c004c367d78d512"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Hommes_from_acrofan.jpg/220px-Hommes_from_acrofan.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "R&B,K-pop",
+                    "labels": "Big Hit Entertainment",
+                    "members_str": ""
+                },
+                {
+                    "name": "Honey G",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add54a25c004c367d78d513"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "South Korea",
+                    "genres_str": "K-pop",
+                    "labels": "Chungchun Music,CJ E&M",
+                    "members_str": "Bae Jae-hyun,Park Ji-yong,Kwon Tae-hyun"
+                },
+                {
+                    "name": "Hotshot",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add54a25c004c367d78d514"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,Dance-pop,Hip hop,R&B",
+                    "labels": "Star Crew Entertainment",
+                    "members_str": "Junhyuk,Timoteo,Taehyun,Sungwoon,Yoonsan,Hojung"
+                },
+                {
+                    "name": "Humming Urban Stereo\n\ud5c8\ubc0d \uc5b4\ubc18 \uc2a4\ud14c\ub808\uc624",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://102design.com/hus/",
+                    "_id": {
+                        "$oid": "5add54a25c004c367d78d515"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "South Korea",
+                    "genres_str": "K-pop,Electropop",
+                    "labels": "Pastel Music (2004 - 2012),WaltzSofa Records (2012 - Present)",
+                    "members_str": "Lee Ji Rin"
+                },
+                {
+                    "name": "Hyeongseop X Euiwoong",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add54a25c004c367d78d516"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop",
+                    "labels": "Yuehua Entertainment",
+                    "members_str": "Hyeongseop,Euiwoong"
+                },
+                {
+                    "name": "Hyukoh",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add54a35c004c367d78d517"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/d/df/180110_%ED%98%81%EC%98%A4%EB%B0%B4%EB%93%9C.jpg/220px-180110_%ED%98%81%EC%98%A4%EB%B0%B4%EB%93%9C.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "Indie pop,Indie rock",
+                    "labels": "DRDRamc,HIGHGRND",
+                    "members_str": "Oh Hyuk,Im Dong-geon,Lim Hyun-jae,Lee In-woo"
+                }
+            ]
+        },
+        {
+            "name": "Group15",
+            "children": [
+                {
+                    "name": "I.B.I",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add54a35c004c367d78d518"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/IBI.jpg/300px-IBI.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop",
+                    "labels": "LOEN Entertainment",
+                    "members_str": ""
+                },
+                {
+                    "name": "I.O.I",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://www.ymcent.com/YMC/artist_ioi.php",
+                    "_id": {
+                        "$oid": "5add54a35c004c367d78d519"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/9/92/161021_%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC_%EC%95%84%EC%9D%B4%EC%98%A4%EC%95%84%EC%9D%B4.jpg/300px-161021_%EB%AE%A4%EC%A7%81%EB%B1%85%ED%81%AC_%EC%95%84%EC%9D%B4%EC%98%A4%EC%95%84%EC%9D%B4.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop",
+                    "labels": "YMC Entertainment,CJ E&M",
+                    "members_str": ""
+                },
+                {
+                    "name": "iKon",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://yg-ikon.com",
+                    "_id": {
+                        "$oid": "5add54a45c004c367d78d51a"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/0/07/LG%EC%A0%84%EC%9E%90%2C_%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84%EA%B8%89_%EA%B0%9C%EC%84%B1_%EA%B0%96%EC%B6%98_%E2%80%98X_%EC%8B%9C%EB%A6%AC%EC%A6%88%E2%80%99_%EC%B6%9C%EC%8B%9C_%2825673479820%29.jpg/300px-LG%EC%A0%84%EC%9E%90%2C_%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84%EA%B8%89_%EA%B0%9C%EC%84%B1_%EA%B0%96%EC%B6%98_%E2%80%98X_%EC%8B%9C%EB%A6%AC%EC%A6%88%E2%80%99_%EC%B6%9C%EC%8B%9C_%2825673479820%29.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,hip hop",
+                    "labels": "YG Entertainment,Avex",
+                    "members_str": "Jinhwan,Yunhyeong,Bobby,B.I,Donghyuk,Ju-ne,Chanwoo"
+                },
+                {
+                    "name": "IMFACT",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://imfact.net/",
+                    "_id": {
+                        "$oid": "5add54a45c004c367d78d51b"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,hip hop,R&B",
+                    "labels": "Star Empire Entertainment",
+                    "members_str": "Jeup,Taeho,Jian,Sang,Ungjae"
+                },
+                {
+                    "name": "IN2IT",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add54a45c004c367d78d51c"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/0/00/IN2IT.jpg/300px-IN2IT.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop",
+                    "labels": "MMO Entertainment,CJ E&M",
+                    "members_str": "Jiahn,Yeontae,Inho,Hyunuk,Isaac,Inpyo,Sunghyun"
+                },
+                {
+                    "name": "Infinite",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://ifnt7.com",
+                    "_id": {
+                        "$oid": "5add54a55c004c367d78d51d"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Korea_KPOP_World_Festival_44.jpg/300px-Korea_KPOP_World_Festival_44.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,R&B,dance-pop,electronic",
+                    "labels": "Woollim Entertainment,Universal D",
+                    "members_str": "Sungkyu,Dongwoo,Woohyun,Sungyeol,L,Sungjong"
+                },
+                {
+                    "name": "Infinite F",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://ifnt7.com",
+                    "_id": {
+                        "$oid": "5add54a55c004c367d78d51e"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,J-pop,dance",
+                    "labels": "Woollim Entertainment",
+                    "members_str": "Sungyeol,L,Sungjong"
+                },
+                {
+                    "name": "Infinite H",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://ifnt7.com/infiniteH/main.html",
+                    "_id": {
+                        "$oid": "5add54a55c004c367d78d51f"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/7/77/20150207_%EC%9D%B8%ED%94%BC%EB%8B%88%ED%8A%B8_%EC%97%90%EC%9D%B4%EC%B9%98_%EC%9A%A9%EC%82%B0%ED%8C%AC%EC%8B%B8.jpg/300px-20150207_%EC%9D%B8%ED%94%BC%EB%8B%88%ED%8A%B8_%EC%97%90%EC%9D%B4%EC%B9%98_%EC%9A%A9%EC%82%B0%ED%8C%AC%EC%8B%B8.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,Hip hop,Dance",
+                    "labels": "Woollim Entertainment",
+                    "members_str": ""
+                },
+                {
+                    "name": "IZ",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://musickent.com/artist_iz/",
+                    "_id": {
+                        "$oid": "5add54a65c004c367d78d520"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "Pop rock",
+                    "labels": "Music K Entertainment",
+                    "members_str": "Jihu,Wusu,Hyunjun,Junyoung"
+                },
+                {
+                    "name": "J-Walk\n\uc81c\uc774\uc6cc\ud06c",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://www.angmodes.com/artist/jwalk",
+                    "_id": {
+                        "$oid": "5add54a65c004c367d78d521"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/170504_%EC%A0%9D%EC%8A%A4%ED%82%A4%EC%8A%A4_%ED%8C%AC%EC%82%AC%EC%9D%B8%ED%9A%8C_%EC%9D%80%EC%A7%80%EC%9B%90_%EC%9D%B4%EC%9E%AC%EC%A7%84_%EA%B9%80%EC%9E%AC%EB%8D%95_%EA%B0%95%EC%84%B1%ED%9B%88_%EC%9E%A5%EC%88%98%EC%9B%90_38.jpg/300px-170504_%EC%A0%9D%EC%8A%A4%ED%82%A4%EC%8A%A4_%ED%8C%AC%EC%82%AC%EC%9D%B8%ED%9A%8C_%EC%9D%80%EC%A7%80%EC%9B%90_%EC%9D%B4%EC%9E%AC%EC%A7%84_%EA%B9%80%EC%9E%AC%EB%8D%95_%EA%B0%95%EC%84%B1%ED%9B%88_%EC%9E%A5%EC%88%98%EC%9B%90_38.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,ballad,R&B,dance",
+                    "labels": "Kiss Entertainment,(2002-2006),Vitamin Entertainment,(2007-2012),A&G Modes,(2013-present)",
+                    "members_str": "Kim Jaeduck,Jang Suwon"
+                }
+            ]
+        },
+        {
+            "name": "Group16",
+            "children": [
+                {
+                    "name": "JBJ",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add54a65c004c367d78d522"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/7/77/171021_JBJ_01.jpg/300px-171021_JBJ_01.jpg",
+                    "alias": "",
+                    "origin": "South Korea",
+                    "genres_str": "K-pop",
+                    "labels": "Fave Entertainment,CJ E&M",
+                    "members_str": "Noh Tae-hyun,Takada Kenta,Kim Sang-gyun,Jin Longguo,Kim Dong-han,Kwon Hyun-bin"
+                },
+                {
+                    "name": "Jewelry",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add54a75c004c367d78d523"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Jewelry_from_acrofan.jpg/300px-Jewelry_from_acrofan.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop",
+                    "labels": "Star Empire,Giza Studio",
+                    "members_str": ""
+                },
+                {
+                    "name": "JJ Project",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://jjproject.jype.com/",
+                    "_id": {
+                        "$oid": "5add54a75c004c367d78d524"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Park_Jinyoung_and_JB_in_2015.jpg/250px-Park_Jinyoung_and_JB_in_2015.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop",
+                    "labels": "JYP Entertainment",
+                    "members_str": "JB,Jinyoung"
+                },
+                {
+                    "name": "JJCC",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://www.jjcc.kr/",
+                    "_id": {
+                        "$oid": "5add54a75c004c367d78d525"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/JJCC_at_the_Digital_Media_City_complex_0.jpg/300px-JJCC_at_the_Digital_Media_City_complex_0.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,;,K-hip hop,;,hip hop,;,dance",
+                    "labels": "Jackie Chan Group Korea,Teichiku Records,(Japan)",
+                    "members_str": "E.Co,Eddy,Yul,Zica,SimBa,San-Cheong"
+                },
+                {
+                    "name": "JQT\n\uc81c\uc774\ud050\ud2f0",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://www.gpjqt.com/",
+                    "_id": {
+                        "$oid": "5add54a85c004c367d78d526"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/6/64/JQT_from_acrofan.jpg/300px-JQT_from_acrofan.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop",
+                    "labels": "GP Entertainment,(South Korea),Konvict Muzik,(United States)",
+                    "members_str": ""
+                },
+                {
+                    "name": "jtL",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add54a85c004c367d78d527"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "R&B,pop,Korean hip hop,dance",
+                    "labels": "Yejeon Media",
+                    "members_str": ""
+                },
+                {
+                    "name": "JYJ",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://c-jes.com",
+                    "_id": {
+                        "$oid": "5add54a85c004c367d78d528"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/2014_Asian_Games_opening_ceremony_5.jpg/300px-2014_Asian_Games_opening_ceremony_5.jpg",
+                    "alias": "",
+                    "origin": "South Korea",
+                    "genres_str": "K-pop,dance,R&B",
+                    "labels": "C-JeS Entertainment,A&G Modes,Vitamin Entertainment,LOEN Entertainment,SM Entertainment,(2003-2009),Rhythm Zone,(2010-2013)",
+                    "members_str": "Jaejoong,Yoochun,Junsu"
+                },
+                {
+                    "name": "Kangta & Vanness",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "https://web.archive.org/web/20060603180424/http://www.kangtavanness.com/",
+                    "_id": {
+                        "$oid": "5add54a85c004c367d78d529"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "South Korea,Taiwan",
+                    "genres_str": "",
+                    "labels": "SM Entertainment,(South Korea),Sony BMG,(Hong Kong, Taiwan, Japan)",
+                    "members_str": "Kangta,Vanness Wu"
+                },
+                {
+                    "name": "Kara",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://kara.dspmedia.co.kr",
+                    "_id": {
+                        "$oid": "5add54a95c004c367d78d52a"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kara_at_the_fansigning_for_their_mini_album_%22Day_%26_Night%22%2C_30_August_2014_01.jpg/259px-Kara_at_the_fansigning_for_their_mini_album_%22Day_%26_Night%22%2C_30_August_2014_01.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop",
+                    "labels": "DSP Entertainment",
+                    "members_str": ""
+                },
+                {
+                    "name": "KARD",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://www.kard-official.com/",
+                    "_id": {
+                        "$oid": "5add54a95c004c367d78d52b"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/7/75/170719_%EC%B9%B4%EB%93%9C_KARD_-_HOLA_HOLA_FIRST_MINI_ALBUM_DEBUT_SHOWCASE_09.jpg/220px-170719_%EC%B9%B4%EB%93%9C_KARD_-_HOLA_HOLA_FIRST_MINI_ALBUM_DEBUT_SHOWCASE_09.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,tropical house",
+                    "labels": "DSP Media",
+                    "members_str": "J.Seph,B.M,Somin,Jiwoo"
+                }
+            ]
+        },
+        {
+            "name": "Group17",
+            "children": [
+                {
+                    "name": "Kiss",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add54a95c004c367d78d52c"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "South Korea",
+                    "genres_str": "Pop",
+                    "labels": "J-Entercom",
+                    "members_str": "Mini,Jini,Umji"
+                },
+                {
+                    "name": "KNK",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://ynbent.com",
+                    "_id": {
+                        "$oid": "5add54a95c004c367d78d52d"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/160229_KNK_debut_showcase_01.jpg/300px-160229_KNK_debut_showcase_01.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop",
+                    "labels": "YNB Entertainment,Universal Music Japan",
+                    "members_str": "Youjin,Seungjun,Inseong,Jihun,Heejun"
+                },
+                {
+                    "name": "Koyote\n\ucf54\uc694\ud0dc",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add54aa5c004c367d78d52e"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,dance,Eurodance,hip hop",
+                    "labels": "Trifecta Entertainment,Yuri Entertainment,KYT Entertainment",
+                    "members_str": "Kim Jong-min,Shin Ji,Bbaek Ga"
+                },
+                {
+                    "name": "Laboum",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add54aa5c004c367d78d52f"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/160708_%EC%95%88%EC%82%B0_%EC%8B%9C%ED%99%94_%EC%A1%B0%EB%A0%A5%EB%B0%9C%EC%A0%84%EC%86%8C_%EB%8B%B9%EC%8B%A0%EC%9D%98_%EC%95%84%EC%B9%A8_%EB%B0%95%EC%9D%80%EC%98%81_%EC%9E%85%EB%8B%88%EB%8B%A4_%EA%B3%B5%EA%B0%9C%EB%B0%A9%EC%86%A1_%EB%9D%BC%EB%B6%90_%EC%A7%81%EC%BA%A0_%EC%83%81%EC%83%81%EB%8D%94%ED%95%98%EA%B8%B0_%EA%B0%9C%EC%9D%B8%EA%B8%B0.jpg/220px-160708_%EC%95%88%EC%82%B0_%EC%8B%9C%ED%99%94_%EC%A1%B0%EB%A0%A5%EB%B0%9C%EC%A0%84%EC%86%8C_%EB%8B%B9%EC%8B%A0%EC%9D%98_%EC%95%84%EC%B9%A8_%EB%B0%95%EC%9D%80%EC%98%81_%EC%9E%85%EB%8B%88%EB%8B%A4_%EA%B3%B5%EA%B0%9C%EB%B0%A9%EC%86%A1_%EB%9D%BC%EB%B6%90_%EC%A7%81%EC%BA%A0_%EC%83%81%EC%83%81%EB%8D%94%ED%95%98%EA%B8%B0_%EA%B0%9C%EC%9D%B8%EA%B8%B0.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop",
+                    "labels": "NH Media,Nega Network,Global H Media",
+                    "members_str": "Yujeong,Soyeon,ZN,Haein,Solbin"
+                },
+                {
+                    "name": "Ladies' Code",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add54aa5c004c367d78d530"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Ladies%27_Code_at_a_fansign_in_Shinsegae_inMarch_2016_03.jpg/293px-Ladies%27_Code_at_a_fansign_in_Shinsegae_inMarch_2016_03.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,electropop,R&B",
+                    "labels": "Polaris Entertainment",
+                    "members_str": "Ashley,Sojung,Zuny"
+                },
+                {
+                    "name": "Lady\n\ub808\uc774\ub514",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://logient.co.kr/sub/sub_10_14.html",
+                    "_id": {
+                        "$oid": "5add54aa5c004c367d78d531"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "South Korea",
+                    "genres_str": "K-pop",
+                    "labels": "Logi Entertainment",
+                    "members_str": "Sinae (\uc2e0\uc560),Sahara (\uc0ac\ud558\ub77c),Binu (\ube44\ub204),Yuna (\uc720\ub098)"
+                },
+                {
+                    "name": "LedT",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://www.starkiment.co.kr/",
+                    "_id": {
+                        "$oid": "5add54ab5c004c367d78d532"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-rock,pop rock,alternative rock,electronic rock,power pop",
+                    "labels": "STARKIM Entertainment,Universal D",
+                    "members_str": ""
+                },
+                {
+                    "name": "The Legend (\uc804\uc124)",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add54ab5c004c367d78d533"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,Dance-pop,Hip hop",
+                    "labels": "SS Entertainment",
+                    "members_str": ""
+                },
+                {
+                    "name": "Lip Service (\ub9bd\uc11c\ube44\uc2a4)",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add54ab5c004c367d78d534"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,Dance-pop",
+                    "labels": "Chorok Entertainment,(2017-Present),Luce Entertainment,(2016\u201317),CMG Chorok Stars,(2014\u201315),Now Entertainment,(2014)",
+                    "members_str": "BiPa,Anna"
+                },
+                {
+                    "name": "Longguo & Shihyun",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add54ac5c004c367d78d535"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/a/af/170818_%EC%9A%A9%EA%B5%AD%26%EC%8B%9C%ED%98%84.jpg/220px-170818_%EC%9A%A9%EA%B5%AD%26%EC%8B%9C%ED%98%84.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,Electronica",
+                    "labels": "Choon Entertainment",
+                    "members_str": "Longguo,Shihyun"
+                }
+            ]
+        },
+        {
+            "name": "Group18",
+            "children": [
+                {
+                    "name": "Loona",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://loonatheworld.com",
+                    "_id": {
+                        "$oid": "5add54ac5c004c367d78d536"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2017_04_30_%EC%9D%B4%EB%8B%AC%EC%9D%98%EC%86%8C%EB%85%80_13_%EC%98%81%EB%93%B1%ED%8F%AC_%ED%8C%AC%EC%8B%B8%EC%9D%B8%ED%9A%8C_%287%29.jpg/220px-2017_04_30_%EC%9D%B4%EB%8B%AC%EC%9D%98%EC%86%8C%EB%85%80_13_%EC%98%81%EB%93%B1%ED%8F%AC_%ED%8C%AC%EC%8B%B8%EC%9D%B8%ED%9A%8C_%287%29.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop",
+                    "labels": "Blockberry Creative",
+                    "members_str": "HeeJin,HyunJin,HaSeul,YeoJin,ViVi,Kim Lip,JinSoul,Choerry,Yves,Chuu,Go Won,Olivia Hye"
+                },
+                {
+                    "name": "",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://lvlz8.com",
+                    "_id": {
+                        "$oid": "5add54ac5c004c367d78d537"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Team_Korea_Rio_2016_07.jpg/300px-Team_Korea_Rio_2016_07.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,bubblegum pop",
+                    "labels": "Woollim Entertainment",
+                    "members_str": "Baby Soul,Jiae,Jisoo,Mijoo,Kei,Jin,Sujeong,Yein"
+                },
+                {
+                    "name": "Lunafly",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://www.neganetwork.com/",
+                    "_id": {
+                        "$oid": "5add54ad5c004c367d78d538"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/KOCIS_Korea_Mnet_LUNAFLY_02_%2812986798945%29.jpg/300px-KOCIS_Korea_Mnet_LUNAFLY_02_%2812986798945%29.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "Pop,K-pop,Acoustic",
+                    "labels": "Nega Network",
+                    "members_str": "Sam Carter,Yun (Han Seung Yun)"
+                },
+                {
+                    "name": "LUV",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add54ad5c004c367d78d539"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "South Korea",
+                    "genres_str": "K-pop,R&B,Pop",
+                    "labels": "SidusHQ",
+                    "members_str": ""
+                },
+                {
+                    "name": "M4M",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add54ad5c004c367d78d53a"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "China",
+                    "genres_str": "Mandopop,K-Pop",
+                    "labels": "Cube Entertainment,Xing Tian,(2013\u20132015)",
+                    "members_str": "Alen,Jimmy,Vinson,Bin"
+                },
+                {
+                    "name": "MADTOWN",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://cafe.daum.net/madtown",
+                    "_id": {
+                        "$oid": "5add54ae5c004c367d78d53b"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,R&B,dance-pop,Hip hop",
+                    "labels": "J. Tune Camp,GNI Entertainment",
+                    "members_str": ""
+                },
+                {
+                    "name": "Mamamoo",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://rbbridge.com/pages/artist1/",
+                    "_id": {
+                        "$oid": "5add54ae5c004c367d78d53c"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Mamamoo_at_KCON_New_York_2016.jpg/300px-Mamamoo_at_KCON_New_York_2016.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,retro,Jazz,R&B",
+                    "labels": "RBW",
+                    "members_str": "Solar,Moonbyul,Wheein,Hwasa"
+                },
+                {
+                    "name": "M&D",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://mnd.smtown.com/",
+                    "_id": {
+                        "$oid": "5add54ae5c004c367d78d53d"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "Pop rock,dance rock",
+                    "labels": "Label SJ,S.M. Entertainment",
+                    "members_str": "Kim Heechul,Kim Jungmo"
+                },
+                {
+                    "name": "MAP6",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://www.dreamteaent.co.kr",
+                    "_id": {
+                        "$oid": "5add54ae5c004c367d78d53e"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop",
+                    "labels": "Dream T Entertainment",
+                    "members_str": "Minhyuk,J.Jun,Sign,Sun,J.Vin"
+                },
+                {
+                    "name": "MAS",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add54af5c004c367d78d53f"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "Pop rock,R&B",
+                    "labels": "Modern Music,(2015\u20132017),RBW,(2017\u2013present)",
+                    "members_str": "Yonghoon,Harin,Kanghyun,Dongmyeong,Cya"
+                }
+            ]
+        },
+        {
+            "name": "Group19",
+            "children": [
+                {
+                    "name": "Masc",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://jjholicmedia.com/",
+                    "_id": {
+                        "$oid": "5add54af5c004c367d78d540"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop",
+                    "labels": "JJ Holic Media",
+                    "members_str": "Woosoo,A.C.E,Doeun,Heejae,Ireah,Moonbong,Chibin"
+                },
+                {
+                    "name": "MBLAQ",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add54af5c004c367d78d541"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/d/da/MBLAQ_in_2010.jpg/300px-MBLAQ_in_2010.jpg",
+                    "alias": "",
+                    "origin": "South Korea",
+                    "genres_str": "K-pop,Electronic,dance,R&B",
+                    "labels": "J. Tune Camp,(2009\u20132017),gr8!",
+                    "members_str": "Seungho,G.O,Mir"
+                },
+                {
+                    "name": "Milk",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add54b05c004c367d78d542"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "South Korea",
+                    "genres_str": "K-pop",
+                    "labels": "BM Entertainment,SM Entertainment",
+                    "members_str": "Seo Hyun-jin,Kim Bo-mi,Bae Yu-mi,Park Hee-von"
+                },
+                {
+                    "name": "Miss A",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://missa.jype.com",
+                    "_id": {
+                        "$oid": "5add54b05c004c367d78d543"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Miss_A_at_the_Korea_KPOP_World_Festival_2013.jpg/300px-Miss_A_at_the_Korea_KPOP_World_Festival_2013.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,Dance-pop,electropop,R&B",
+                    "labels": "JYP Entertainment,Universal Music Group",
+                    "members_str": ""
+                },
+                {
+                    "name": "Miss $",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://brandnewmusic.co.kr/",
+                    "_id": {
+                        "$oid": "5add54b05c004c367d78d544"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "Rap,hip-hop,R&B,K-Pop",
+                    "labels": "Brand New Music",
+                    "members_str": "Jace,Minhee"
+                },
+                {
+                    "name": "Momoland",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add54b05c004c367d78d545"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/180413_Momoland_at_Gimpo_International_Airport_%281%29.png/300px-180413_Momoland_at_Gimpo_International_Airport_%281%29.png",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop",
+                    "labels": "Dublekick Company,J-Rock",
+                    "members_str": "Hyebin,Yeonwoo,Jane,Taeha,Nayun,Daisy,JooE,Ahin,Nancy"
+                },
+                {
+                    "name": "Monday Kiz",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "",
+                    "_id": {
+                        "$oid": "5add54b15c004c367d78d546"
+                    },
+                    "image": "",
+                    "alias": "",
+                    "origin": "South Korea",
+                    "genres_str": "K-pop,R&B",
+                    "labels": "Can Entertainment",
+                    "members_str": ""
+                },
+                {
+                    "name": "Monsta X",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "http://MonstaX-E.com/",
+                    "_id": {
+                        "$oid": "5add54b15c004c367d78d547"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Monsta_X_Promoting_The_First_Asia_Fan_Meeting_in_Bangkok_2017.png/320px-Monsta_X_Promoting_The_First_Asia_Fan_Meeting_in_Bangkok_2017.png",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,hip-hop,EDM,pop",
+                    "labels": "Starship Entertainment,Mercury Records",
+                    "members_str": "Shownu,Wonho,Minhyuk,Kihyun,Hyungwon,Jooheon,I.M"
+                },
+                {
+                    "name": "Mr.Mr",
+                    "fleur": "https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png",
+                    "link": "https://twitter.com/thenmmrmr",
+                    "_id": {
+                        "$oid": "5add54b15c004c367d78d548"
+                    },
+                    "image": "//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Mr.Mr_at_the_Incheon_Festival_%282%29.jpg/300px-Mr.Mr_at_the_Incheon_Festival_%282%29.jpg",
+                    "alias": "",
+                    "origin": "Seoul,South Korea",
+                    "genres_str": "K-pop,Dance",
+                    "labels": "WinningIn Sight Music,TH E&M",
+                    "members_str": "Doyeon,Changjae,Tey,Sanghyun,Jaemin"
+                }
+            ]
+        }
+    ]
+}

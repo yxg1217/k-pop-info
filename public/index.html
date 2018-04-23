@@ -3,6 +3,7 @@
 <head>
     <meta charset="utf-8">
     <title>Kpop Jjang!</title>
+    <link rel="icon" href="https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png">
     <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
 
     <style>
@@ -56,7 +57,7 @@ var force = d3.layout.force();
 
 vis = d3.select("#vis").append("svg").attr("width", w).attr("height", h);
 
-d3.json("kpop.json", function(json) {
+d3.json("kpopgroups.json", function(json) {
 
   root = json;
   root.fixed = true;
@@ -129,7 +130,13 @@ function update() {
 
   // Append images
   var images = nodeEnter.append("svg:image")
-        .attr("xlink:href",  function(d) { return d.img;})
+        .attr("xlink:href",  function(d) {
+          if(d.name == 'Kpop'){
+            return d.image;
+          }
+          else{
+            return d.fleur;}
+          })
         .attr("x", function(d) { return -25;})
         .attr("y", function(d) { return -25;})
         .attr("height", 50)
@@ -139,6 +146,9 @@ function update() {
   var setEvents = images
           // Append hero text
           .on( 'click', function (d) {
+            var expr = /Group.*/
+            var tmp = (d.name).match(expr)
+            if(d.name != 'Kpop'){
               d3.select("h1").html(d.name);
               d3.select("h2").html(d.alias);
               d3.select("#origin").html("Origine : "+d.origin);
@@ -146,6 +156,25 @@ function update() {
               d3.select("#labels").html("Labels : "+d.labels);
               d3.select("#members_str").html("Membres : "+d.members_str);
               d3.select("h3").html ("Je veux visiter la page de " + "<a href='" + d.link + "' >"  + d.name + " ⇢"+ "</a>" );
+            }
+            else if(tmp.length > 0) {
+              d3.select("h1").html("");
+              d3.select("h2").html("");
+              d3.select("#origin").html("");
+              d3.select("#genres_str").html("");
+              d3.select("#labels").html("");
+              d3.select("#members_str").html("");
+              d3.select("h3").html ("");
+            }
+            else{
+              d3.select("h1").html(d.name);
+              d3.select("h2").html("Cliquez sur le coeur pour afficher les groupes!");
+              d3.select("#origin").html("K");
+              d3.select("#genres_str").html("P");
+              d3.select("#labels").html("O");
+              d3.select("#members_str").html("P");
+              d3.select("h3").html ("!");
+            }
            })
 
           .on( 'mouseenter', function() {
@@ -173,7 +202,7 @@ function update() {
       .attr("x", x_browser)
       .attr("y", y_browser +15)
       .attr("fill", tcBlack)
-      .text(function(d) { return d.hero; });
+      .text(function(d) { return d.name; });
 
 
   // Exit any old nodes.
