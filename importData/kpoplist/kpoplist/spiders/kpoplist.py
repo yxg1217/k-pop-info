@@ -3,7 +3,8 @@ from kpoplist.items import KpoplistItem
 
 class KpoplistSpider(scrapy.Spider):
     name = "kpoplist"
-    with open('/home/chou/Documents/M1/BasedeDonnees/Kpop/kpop/kpopurls/kpopurls.csv', 'r') as f:
+    path = os.environ['OLDPWD']
+    with open(path+'/importData/kpopurls/kpopurls.csv', 'r') as f:
       urllist = f.read()
     tmp = urllist.split(",")
     start_urls = []

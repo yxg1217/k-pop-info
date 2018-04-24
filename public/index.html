@@ -3,11 +3,11 @@
 <head>
     <meta charset="utf-8">
     <title>Kpop Jjang!</title>
-    <link rel="icon" href="https://cdn.pixabay.com/photo/2012/05/07/15/46/white-48645_960_720.png">
-    <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+    <link rel="icon" href="cerclefleur.png">
+    <script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
 
     <style>
-      @import url(http://fonts.googleapis.com/css?family=Source+Code+Pro:400,600);
+      @import url(https://fonts.googleapis.com/css?family=Source+Code+Pro:400,600);
       body {font-family: "Source Code Pro", Consolas, monaco, monospace; line-height: 160%; font-size: 16px;  margin: 0; }
       path.link {
         fill: none;
@@ -146,9 +146,7 @@ function update() {
   var setEvents = images
           // Append hero text
           .on( 'click', function (d) {
-            var expr = /Group.*/
-            var tmp = (d.name).match(expr)
-            if(d.name != 'Kpop'){
+            if(d.name != 'Kpop' && (/^Group.*/.test(d.name)) == false){
               d3.select("h1").html(d.name);
               d3.select("h2").html(d.alias);
               d3.select("#origin").html("Origine : "+d.origin);
@@ -157,18 +155,9 @@ function update() {
               d3.select("#members_str").html("Membres : "+d.members_str);
               d3.select("h3").html ("Je veux visiter la page de " + "<a href='" + d.link + "' >"  + d.name + " ⇢"+ "</a>" );
             }
-            else if(tmp.length > 0) {
-              d3.select("h1").html("");
-              d3.select("h2").html("");
-              d3.select("#origin").html("");
-              d3.select("#genres_str").html("");
-              d3.select("#labels").html("");
-              d3.select("#members_str").html("");
-              d3.select("h3").html ("");
-            }
             else{
               d3.select("h1").html(d.name);
-              d3.select("h2").html("Cliquez sur le coeur pour afficher les groupes!");
+              d3.select("h2").html("Cliquez sur le groupe pour re-afficher les groupes des idols!");
               d3.select("#origin").html("K");
               d3.select("#genres_str").html("P");
               d3.select("#labels").html("O");
