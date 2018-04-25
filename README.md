@@ -7,7 +7,6 @@
 1. Install the docker-compose in order to launch MongoDB
 2. Launch MongoDB
 3. Install dependencies with npm install
-4. Install pip
 
 ## Start the application 
 
@@ -23,7 +22,7 @@ In a production mode, run docker-compose -d up letting the container run in back
 
 2. npm start 
 
-3. Add Datas: python import.py
+3. Add Datas: kpopgroups.json
 
 
 ## Annexe 
