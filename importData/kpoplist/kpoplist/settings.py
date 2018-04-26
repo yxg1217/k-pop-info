@@ -69,7 +69,7 @@ ITEM_PIPELINES = {
     'kpoplist.pipelines.MongoPipeline': 300,
 }
 MONGO_URI = 'mongodb://localhost:27017'
-MONGO_DATABASE = 'kpop-project'
+MONGO_DATABASE = 'kpopproject'
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://doc.scrapy.org/en/latest/topics/autothrottle.html
 #AUTOTHROTTLE_ENABLED = True
