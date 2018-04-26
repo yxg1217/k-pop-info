@@ -21,7 +21,7 @@ In a production mode, run docker-compose -d up letting the container run in back
 
 3.Store data into db
 
->scrapy craw kpoplist
+>scrapy crawl kpoplist
 
 3. Produce json file: kpopgroups.json
 
