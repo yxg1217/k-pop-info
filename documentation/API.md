@@ -9,23 +9,22 @@
 
 - [1 Music](#music)
 - [2 Singer](#singer)
-- [3 Member](#member)
 
 ---
 
 
-<h2 id="music">1. music</h2>
+<h2 id="singer">1. singer</h2>
 
-We read all the infomations of the music here
+We read all the infomations of the singers here
 
-<h3 id="piao-insert">1.1 music info </h3>
+<h3 id="singer-insert">1.1 singer info </h3>
 
 
 **Access Point**:
 
 | Method | Path |
 |:----------------:|:----------------:|
-| POST | /music |
+| POST | /singer |
 
 **Content**:
 
@@ -33,19 +32,19 @@ We read all the infomations of the music here
 {"image":"pathTo/example.jpg","description":"BTS",
 "children":[
     {"name": "Bangtan Boys"},
+    {"fleur": "cerclefleur.png"},
+    {"link": "http://2am.jype.com"},
     {"origin": "Seoul, South Korea"},
     {"genres_str": "K-pop hip hop[1] R&B EDM"},
-    {"years_active": "2013–present"},
     {"labels": "Big Hit Entertainment Pony Canyon Def Jam Japan"},
-    {"website":"bts.ibighit.com"},
     {"members_str":"Jin,Suga,J-Hope,RM,Jimin,V,Jungkook}
 ]}
-]}
+
 **Example:**
 
 ~~~bash
 curl -H "Content-Type: application/json" \
--X POST "http://localhost:3000/music" \
--d '{"name":"Save Me", "singer":"BTS", "yearPublic":"2016-01-01T07:42:10.800Z", "addDate":"2016-01-01T07:42:10.800Z"}'
+-X POST "http://localhost:3000/singer" \
+-d '{"name":"Bangtan Boys", "link": "http://2am.jype.com", "origin": "Seoul, South Korea","genres_str": "K-pop hip hop[1] R&B EDM","labels": "Big Hit Entertainment Pony Canyon Def Jam Japan","members_str":"Jin,Suga,J-Hope,RM,Jimin,V,Jungkook}'
 
 ~~~
