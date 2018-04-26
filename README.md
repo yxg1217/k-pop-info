@@ -21,12 +21,9 @@ In a production mode, run docker-compose -d up letting the container run in back
 
 3.Store data into db
 
->scrapy crawl kpoplist
+>scrapy crawl importData/kpoplist/kpoplist
 
 3. Produce json file: kpopgroups.json
 
->python3 datagroups.py
+>python3 models/datagroups.py
 
-## Annexe 
-
-<a herf="./documents/api.md">API DOC</a>
