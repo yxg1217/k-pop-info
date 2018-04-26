@@ -7,23 +7,25 @@
 1. Install the docker-compose in order to launch MongoDB
 2. Launch MongoDB
 3. Install dependencies with npm install
+4. Install Scrapy with Python3 (install Python3 if not installed)
+6. Install PyMongo
 
 ## Start the application 
 
 1. Verify the DB
-
 Before starting this Node services, we should first start our MongoDB Database, to achieve this:
                 
 > docker-compose up
 
-Then all the Data persistent will be saved to ./Mongodb-mount
-
 In a production mode, run docker-compose -d up letting the container run in background. 
 
-2. npm start 
+3.Store data into db
 
-3. Add Datas: kpopgroups.json
+>scrapy craw kpoplist
 
+3. Produce json file: kpopgroups.json
+
+>python3 datagroups.py
 
 ## Annexe 
 
